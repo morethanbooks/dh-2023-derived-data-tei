@@ -1,0 +1,2466 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Gentleman from Ireland (1858)</title>
+        <author>O'Brien, Fitz James</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="dlina">DLINA</publisher>
+        <idno type="URL">https://dlina.github.io</idno>
+        <idno type="DLINA-ID">am-4bc0ad</idno>
+        <availability>
+          <licence>
+            <ab>CC-BY-4.0</ab>
+            <ref target="https://creativecommons.org/licenses/by/4.0/legalcode">Lizenzvertrag</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>American Drama, 1714-1915</name>
+          <name>American Drama Full-Text Database</name>
+          <publisher>ProQuest Information and Learning</publisher>
+          <date>2005</date>
+          <pubPlace>Cambridge</pubPlace>
+          <idno type="URL">https://www.proquest.com/products-services/american_drama.html</idno>
+          <availability>
+            <licence>
+              <ab>Copyright; proprietary</ab>
+              <p>Copyright © 2005 ProQuest Information and Learning company. All Rights Reserved. Do
+                not export or print from this database without checking the Copyright Conditions to
+                see what is permitted.</p>
+              <p>Every effort has been made to obtain permission from the copyright holders of works
+                included in American Drama 1714–1915. ProQuest would be grateful for further
+                information concerning any author for whom we have been unable to trace a copyright
+                holder.</p>
+            </licence>
+          </availability>
+          <bibl type="originalSource">
+            <date type="print" when="1858"/><!--/VLGROUP[@xmlns: eq "http://dracor.org/amdracor"]/DIV0[@PUBN1 eq "1858"][@PUBN2 eq "1858"][@PERF1 eq "1854"][@PERF2 eq "1854"][@WRITER1 eq "O'Brien, Fitz James, 1828-1862"][@GENDER eq "M"][@NATION1 eq "American"][@NATION2 eq "North American"][@PUBLISH eq "Samuel French"][@PLAYTYPE eq "prose"][@PLERF eq "Wallack's Theater, New York"][@GENRE1 eq "Comedy"]/ATTRIBS/ATTPUBN[.=1858]
+/VLGROUP[@xmlns: eq "http://dracor.org/amdracor"]/DIV0[@PUBN1 eq "1858"][@PUBN2 eq "1858"][@PERF1 eq "1854"][@PERF2 eq "1854"][@WRITER1 eq "O'Brien, Fitz James, 1828-1862"][@GENDER eq "M"][@NATION1 eq "American"][@NATION2 eq "North American"][@PUBLISH eq "Samuel French"][@PLAYTYPE eq "prose"][@PLERF eq "Wallack's Theater, New York"][@GENRE1 eq "Comedy"]/ATTRIBS/ATTDERF[.=December 11, 1854]
+/VLGROUP[@xmlns: eq "http://dracor.org/amdracor"]/DIV0[@PUBN1 eq "1858"][@PUBN2 eq "1858"][@PERF1 eq "1854"][@PERF2 eq "1854"][@WRITER1 eq "O'Brien, Fitz James, 1828-1862"][@GENDER eq "M"][@NATION1 eq "American"][@NATION2 eq "North American"][@PUBLISH eq "Samuel French"][@PLAYTYPE eq "prose"][@PLERF eq "Wallack's Theater, New York"][@GENRE1 eq "Comedy"]/NEWATTS/ATTPUBN1[.=1858]
+/VLGROUP[@xmlns: eq "http://dracor.org/amdracor"]/DIV0[@PUBN1 eq "1858"][@PUBN2 eq "1858"][@PERF1 eq "1854"][@PERF2 eq "1854"][@WRITER1 eq "O'Brien, Fitz James, 1828-1862"][@GENDER eq "M"][@NATION1 eq "American"][@NATION2 eq "North American"][@PUBLISH eq "Samuel French"][@PLAYTYPE eq "prose"][@PLERF eq "Wallack's Theater, New York"][@GENRE1 eq "Comedy"]/NEWATTS/ATTPUBN2[.=1858]
+/VLGROUP[@xmlns: eq "http://dracor.org/amdracor"]/DIV0[@PUBN1 eq "1858"][@PUBN2 eq "1858"][@PERF1 eq "1854"][@PERF2 eq "1854"][@WRITER1 eq "O'Brien, Fitz James, 1828-1862"][@GENDER eq "M"][@NATION1 eq "American"][@NATION2 eq "North American"][@PUBLISH eq "Samuel French"][@PLAYTYPE eq "prose"][@PLERF eq "Wallack's Theater, New York"][@GENRE1 eq "Comedy"]/NEWATTS/ATTPERF1[.=1854]
+/VLGROUP[@xmlns: eq "http://dracor.org/amdracor"]/DIV0[@PUBN1 eq "1858"][@PUBN2 eq "1858"][@PERF1 eq "1854"][@PERF2 eq "1854"][@WRITER1 eq "O'Brien, Fitz James, 1828-1862"][@GENDER eq "M"][@NATION1 eq "American"][@NATION2 eq "North American"][@PUBLISH eq "Samuel French"][@PLAYTYPE eq "prose"][@PLERF eq "Wallack's Theater, New York"][@GENRE1 eq "Comedy"]/NEWATTS/ATTPERF2[.=1854]-->
+            <date type="premiere" when="1854"/>
+            <date type="written"/>
+            <bibl>
+              <author>Fitz James O'Brien, 1828 – 1862</author>
+              <title>A Gentleman from Ireland. A Comedy, in Two Acts. To Which Are Added a
+                Description of the Costume — Cast of Characters — Entrances and Exits — Relative
+                Positions of the Performers on the Stage, and the Whole of the Stage Business. As
+                Performed at Wallack's Theatre</title>
+              <pubPlace>New York</pubPlace>
+              <publisher>Samuel French</publisher>
+              <date type="am:CITN-am:PUBDATE" when="1858"/>
+              <extent>20 p.</extent>First performed: Wallack's Theater, New YorkFirst performed:
+              December 11, 1854<note>Preliminaries omitted.</note>
+            </bibl>
+          </bibl>
+        </bibl>
+      </sourceDesc>
+    <extent><measureGrp type="form"><measureGrp corresp="#amdram1"><measure commodity="." quantity="688"/><measure commodity="," quantity="660"/><measure commodity="I" quantity="324"/><measure commodity="&#10;              " quantity="309"/><measure commodity="!" quantity="231"/><measure commodity="to" quantity="221"/><measure commodity="the" quantity="216"/><measure commodity="you" quantity="211"/><measure commodity="a" quantity="193"/><measure commodity="[" quantity="138"/><measure commodity="and" quantity="136"/><measure commodity="of" quantity="133"/><measure commodity="that" quantity="117"/><measure commodity="in" quantity="103"/><measure commodity="my" quantity="101"/><measure commodity="—" quantity="98"/><measure commodity="me" quantity="96"/><measure commodity="is" quantity="92"/><measure commodity="'s" quantity="89"/><measure commodity="?" quantity="88"/><measure commodity="it" quantity="84"/><measure commodity="sir" quantity="81"/><measure commodity="for" quantity="77"/><measure commodity="]" quantity="74"/><measure commodity="have" quantity="72"/><measure commodity="your" quantity="69"/><measure commodity="he" quantity="68"/><measure commodity="be" quantity="60"/><measure commodity="Fitzmaurice" quantity="59"/><measure commodity="Mr." quantity="57"/><measure commodity="not" quantity="54"/><measure commodity="as" quantity="52"/><measure commodity="him" quantity="51"/><measure commodity="his" quantity="49"/><measure commodity="this" quantity="48"/><measure commodity="will" quantity="48"/><measure commodity="Aside" quantity="48"/><measure commodity="with" quantity="47"/><measure commodity="do" quantity="43"/><measure commodity="are" quantity="40"/><measure commodity="You" quantity="40"/><measure commodity="Lucy" quantity="37"/><measure commodity="was" quantity="37"/><measure commodity="am" quantity="36"/><measure commodity="at" quantity="34"/><measure commodity="n't" quantity="34"/><measure commodity="Clover" quantity="33"/><measure commodity="'ll" quantity="31"/><measure commodity=";" quantity="31"/><measure commodity="if" quantity="30"/><measure commodity="What" quantity="30"/><measure commodity="no" quantity="29"/><measure commodity="But" quantity="29"/><measure commodity="here" quantity="29"/><measure commodity="-" quantity="28"/><measure commodity="an" quantity="28"/><measure commodity="one" quantity="27"/><measure commodity="on" quantity="27"/><measure commodity="all" quantity="27"/><measure commodity="say" quantity="27"/><measure commodity="Agnes" quantity="26"/><measure commodity="but" quantity="26"/><measure commodity="we" quantity="26"/><measure commodity="&quot;" quantity="26"/><measure commodity="He" quantity="26"/><measure commodity="so" quantity="26"/><measure commodity="Hugh" quantity="26"/><measure commodity="has" quantity="25"/><measure commodity="It" quantity="25"/><measure commodity="know" quantity="24"/><measure commodity="very" quantity="23"/><measure commodity="from" quantity="23"/><measure commodity="poor" quantity="22"/><measure commodity="can" quantity="22"/><measure commodity="Oh" quantity="21"/><measure commodity="should" quantity="21"/><measure commodity="old" quantity="21"/><measure commodity="never" quantity="20"/><measure commodity="Charley" quantity="20"/><measure commodity="Dudley" quantity="20"/><measure commodity="shall" quantity="19"/><measure commodity="father" quantity="19"/><measure commodity="son" quantity="18"/><measure commodity="by" quantity="18"/><measure commodity="see" quantity="17"/><measure commodity="when" quantity="17"/><measure commodity="time" quantity="17"/><measure commodity="must" quantity="17"/><measure commodity="there" quantity="16"/><measure commodity="had" quantity="16"/><measure commodity="The" quantity="16"/><measure commodity="come" quantity="16"/><measure commodity="who" quantity="16"/><measure commodity="may" quantity="16"/><measure commodity="Aloud" quantity="16"/><measure commodity="To" quantity="16"/><measure commodity="any" quantity="15"/><measure commodity="out" quantity="15"/><measure commodity="'m" quantity="15"/><measure commodity="My" quantity="15"/><measure commodity="Miss" quantity="15"/><measure commodity="would" quantity="15"/><measure commodity="us" quantity="15"/><measure commodity="love" quantity="15"/><measure commodity="sister" quantity="15"/><measure commodity="they" quantity="14"/><measure commodity="were" quantity="14"/><measure commodity="up" quantity="14"/><measure commodity="been" quantity="14"/><measure commodity="Well" quantity="14"/><measure commodity="fellow" quantity="14"/><measure commodity="what" quantity="14"/><measure commodity="which" quantity="14"/><measure commodity="'ve" quantity="13"/><measure commodity="house" quantity="13"/><measure commodity="after" quantity="13"/><measure commodity="friend" quantity="13"/><measure commodity="Castle" quantity="13"/><measure commodity="thought" quantity="13"/><measure commodity="little" quantity="12"/><measure commodity="Now" quantity="12"/><measure commodity="think" quantity="12"/><measure commodity="daughter" quantity="12"/><measure commodity="or" quantity="12"/><measure commodity="ha" quantity="12"/><measure commodity="And" quantity="12"/><measure commodity="Enter" quantity="12"/><measure commodity="Ballypookeen" quantity="12"/><measure commodity="heart" quantity="12"/><measure commodity="going" quantity="11"/><measure commodity="Ah" quantity="11"/><measure commodity="day" quantity="11"/><measure commodity="too" quantity="11"/><measure commodity="Your" quantity="11"/><measure commodity="did" quantity="11"/><measure commodity="then" quantity="11"/><measure commodity="life" quantity="11"/><measure commodity="man" quantity="11"/><measure commodity="well" quantity="11"/><measure commodity="If" quantity="11"/><measure commodity="Here" quantity="11"/><measure commodity="her" quantity="11"/><measure commodity="first" quantity="11"/><measure commodity="So" quantity="10"/><measure commodity="let" quantity="10"/><measure commodity="some" quantity="10"/><measure commodity="A" quantity="10"/><measure commodity="myself" quantity="10"/><measure commodity="name" quantity="10"/><measure commodity="Then" quantity="10"/><measure commodity="R." quantity="10"/><measure commodity="now" quantity="10"/><measure commodity="ever" quantity="10"/><measure commodity="into" quantity="10"/><measure commodity="'" quantity="10"/><measure commodity="dear" quantity="10"/><measure commodity="We" quantity="10"/><measure commodity="mean" quantity="10"/><measure commodity="how" quantity="10"/><measure commodity="E." quantity="10"/><measure commodity="more" quantity="10"/><measure commodity="back" quantity="9"/><measure commodity="young" quantity="9"/><measure commodity="arrested" quantity="9"/><measure commodity="gentleman" quantity="9"/><measure commodity="through" quantity="9"/><measure commodity="Ha" quantity="9"/><measure commodity="against" quantity="9"/><measure commodity="hand" quantity="9"/><measure commodity="than" quantity="9"/><measure commodity="could" quantity="9"/><measure commodity="such" quantity="9"/><measure commodity="honor" quantity="9"/><measure commodity="get" quantity="9"/><measure commodity="off" quantity="9"/><measure commodity="There" quantity="8"/><measure commodity="papa" quantity="8"/><measure commodity="hope" quantity="8"/><measure commodity="two" quantity="8"/><measure commodity="In" quantity="8"/><measure commodity="pounds" quantity="8"/><measure commodity="live" quantity="8"/><measure commodity="our" quantity="8"/><measure commodity="once" quantity="8"/><measure commodity="both" quantity="8"/><measure commodity="Irish" quantity="8"/><measure commodity="way" quantity="8"/><measure commodity="go" quantity="8"/><measure commodity="why" quantity="8"/><measure commodity="them" quantity="8"/><measure commodity="That" quantity="8"/><measure commodity="Sir" quantity="8"/><measure commodity="does" quantity="8"/><measure commodity="much" quantity="8"/><measure commodity="like" quantity="8"/><measure commodity="'re" quantity="8"/><measure commodity="only" quantity="8"/><measure commodity="mother" quantity="8"/><measure commodity="bailiff" quantity="8"/><measure commodity="over" quantity="7"/><measure commodity="news" quantity="7"/><measure commodity="long" quantity="7"/><measure commodity="between" quantity="7"/><measure commodity="other" quantity="7"/><measure commodity="take" quantity="7"/><measure commodity="good" quantity="7"/><measure commodity="room" quantity="7"/><measure commodity="Ireland" quantity="7"/><measure commodity="came" quantity="7"/><measure commodity="letter" quantity="7"/><measure commodity="believe" quantity="7"/><measure commodity="C." quantity="7"/><measure commodity="happy" quantity="7"/><measure commodity="sad" quantity="7"/><measure commodity="least" quantity="7"/><measure commodity="fortune" quantity="7"/><measure commodity="Exit" quantity="7"/><measure commodity="where" quantity="7"/><measure commodity="true" quantity="7"/><measure commodity="Looking" quantity="6"/><measure commodity="Reads" quantity="6"/><measure commodity="order" quantity="6"/><measure commodity="No" quantity="6"/><measure commodity="Why" quantity="6"/><measure commodity="tell" quantity="6"/><measure commodity="fear" quantity="6"/><measure commodity="last" quantity="6"/><measure commodity="enough" quantity="6"/><measure commodity="world" quantity="6"/><measure commodity="feel" quantity="6"/><measure commodity="L." quantity="6"/><measure commodity="Let" quantity="6"/><measure commodity="find" quantity="6"/><measure commodity="says" quantity="6"/><measure commodity="How" quantity="6"/><measure commodity="course" quantity="6"/><measure commodity="death" quantity="6"/><measure commodity="dinner" quantity="6"/><measure commodity="she" quantity="6"/><measure commodity="1" quantity="6"/><measure commodity="play" quantity="6"/><measure commodity="mistake" quantity="6"/><measure commodity="heard" quantity="6"/><measure commodity="suit" quantity="6"/><measure commodity="thousand" quantity="6"/><measure commodity="debt" quantity="6"/><measure commodity="about" quantity="5"/><measure commodity="yourself" quantity="5"/><measure commodity="their" quantity="5"/><measure commodity="before" quantity="5"/><measure commodity="set" quantity="5"/><measure commodity="whom" quantity="5"/><measure commodity="make" quantity="5"/><measure commodity="Yes" quantity="5"/><measure commodity="suppose" quantity="5"/><measure commodity="look" quantity="5"/><measure commodity="better" quantity="5"/><measure commodity="another" quantity="5"/><measure commodity="future" quantity="5"/><measure commodity="marry" quantity="5"/><measure commodity="By" quantity="5"/><measure commodity="found" quantity="5"/><measure commodity="please" quantity="5"/><measure commodity="under" quantity="5"/><measure commodity="character" quantity="5"/><measure commodity="This" quantity="5"/><measure commodity="When" quantity="5"/><measure commodity="card" quantity="5"/><measure commodity="melancholy" quantity="5"/><measure commodity="moment" quantity="5"/><measure commodity="intelligence" quantity="5"/><measure commodity="deuce" quantity="5"/><measure commodity="laughing" quantity="5"/><measure commodity="show" quantity="5"/><measure commodity="As" quantity="5"/><measure commodity="charming" quantity="5"/><measure commodity="She" quantity="5"/><measure commodity="part" quantity="5"/><measure commodity="right" quantity="5"/><measure commodity="Bailiff" quantity="5"/><measure commodity="shoot" quantity="5"/><measure commodity="doubt" quantity="4"/><measure commodity="pretty" quantity="4"/><measure commodity="obliged" quantity="4"/><measure commodity="those" quantity="4"/><measure commodity="care" quantity="4"/><measure commodity="use" quantity="4"/><measure commodity="again" quantity="4"/><measure commodity="always" quantity="4"/><measure commodity="H." quantity="4"/><measure commodity="Is" quantity="4"/><measure commodity="eh" quantity="4"/><measure commodity="side" quantity="4"/><measure commodity="saved" quantity="4"/><measure commodity="seen" quantity="4"/><measure commodity="estate" quantity="4"/><measure commodity="married" quantity="4"/><measure commodity="eldest" quantity="4"/><measure commodity="himself" quantity="4"/><measure commodity="heaven" quantity="4"/><measure commodity="every" quantity="4"/><measure commodity="wish" quantity="4"/><measure commodity="far" quantity="4"/><measure commodity="family" quantity="4"/><measure commodity="caught" quantity="4"/><measure commodity="seeing" quantity="4"/><measure commodity="told" quantity="4"/><measure commodity="word" quantity="4"/><measure commodity="give" quantity="4"/><measure commodity="rich" quantity="4"/><measure commodity="girl" quantity="4"/><measure commodity="wishes" quantity="4"/><measure commodity="daughters" quantity="4"/><measure commodity="hypocrite" quantity="4"/><measure commodity="second" quantity="4"/><measure commodity="Savage" quantity="4"/><measure commodity="certainly" quantity="4"/><measure commodity="Certainly" quantity="4"/><measure commodity="matter" quantity="4"/><measure commodity="Come" quantity="4"/><measure commodity="dog" quantity="4"/><measure commodity="got" quantity="4"/><measure commodity="person" quantity="4"/><measure commodity="own" quantity="4"/><measure commodity="comes" quantity="4"/><measure commodity="even" quantity="4"/><measure commodity="really" quantity="4"/><measure commodity="Heavens" quantity="4"/><measure commodity="madam" quantity="4"/><measure commodity="while" quantity="4"/><measure commodity="put" quantity="4"/><measure commodity="noble" quantity="4"/><measure commodity="buy" quantity="4"/><measure commodity="Can" quantity="4"/><measure commodity="Jove" quantity="4"/><measure commodity="catch" quantity="4"/><measure commodity="save" quantity="4"/><measure commodity="brother" quantity="4"/><measure commodity="just" quantity="4"/><measure commodity="upon" quantity="4"/><measure commodity="chancery" quantity="4"/><measure commodity="loves" quantity="4"/><measure commodity="pistols" quantity="4"/><measure commodity="London" quantity="3"/><measure commodity="paper" quantity="3"/><measure commodity="coming" quantity="3"/><measure commodity="follow" quantity="3"/><measure commodity="grow" quantity="3"/><measure commodity="kind" quantity="3"/><measure commodity="Master" quantity="3"/><measure commodity="certain" quantity="3"/><measure commodity="follies" quantity="3"/><measure commodity=":" quantity="3"/><measure commodity="things" quantity="3"/><measure commodity="being" quantity="3"/><measure commodity="Pshaw" quantity="3"/><measure commodity="Do" quantity="3"/><measure commodity="'d" quantity="3"/><measure commodity="shilling" quantity="3"/><measure commodity="ca" quantity="3"/><measure commodity="close" quantity="3"/><measure commodity="child" quantity="3"/><measure commodity="intended" quantity="3"/><measure commodity="ruin" quantity="3"/><measure commodity="bound" quantity="3"/><measure commodity="five" quantity="3"/><measure commodity="years" quantity="3"/><measure commodity="since" quantity="3"/><measure commodity="Robert" quantity="3"/><measure commodity="fine" quantity="3"/><measure commodity="eccentric" quantity="3"/><measure commodity="present" quantity="3"/><measure commodity="hands" quantity="3"/><measure commodity="Pon" quantity="3"/><measure commodity="Who" quantity="3"/><measure commodity="picture" quantity="3"/><measure commodity="hall" quantity="3"/><measure commodity="Taking" quantity="3"/><measure commodity="twentieth" quantity="3"/><measure commodity="rather" quantity="3"/><measure commodity="For" quantity="3"/><measure commodity="reason" quantity="3"/><measure commodity="assumed" quantity="3"/><measure commodity="purpose" quantity="3"/><measure commodity="disguise" quantity="3"/><measure commodity="voice" quantity="3"/><measure commodity="idiot" quantity="3"/><measure commodity="swear" quantity="3"/><measure commodity="Servant" quantity="3"/><measure commodity="wager" quantity="3"/><measure commodity="Bowing" quantity="3"/><measure commodity="Thank" quantity="3"/><measure commodity="Really" quantity="3"/><measure commodity="break" quantity="3"/><measure commodity="listen" quantity="3"/><measure commodity="Laughing" quantity="3"/><measure commodity="keep" quantity="3"/><measure commodity="Laughs" quantity="3"/><measure commodity="inform" quantity="3"/><measure commodity="His" quantity="3"/><measure commodity="also" quantity="3"/><measure commodity="said" quantity="3"/><measure commodity="bit" quantity="3"/><measure commodity="Hang" quantity="3"/><measure commodity="admire" quantity="3"/><measure commodity="might" quantity="3"/><measure commodity="deceive" quantity="3"/><measure commodity="baggage" quantity="3"/><measure commodity="dead" quantity="3"/><measure commodity="knew" quantity="3"/><measure commodity="visit" quantity="3"/><measure commodity="yet" quantity="3"/><measure commodity="passion" quantity="3"/><measure commodity="without" quantity="3"/><measure commodity="win" quantity="3"/><measure commodity="bet" quantity="3"/><measure commodity="seems" quantity="3"/><measure commodity="They" quantity="3"/><measure commodity="anything" quantity="3"/><measure commodity="grass" quantity="3"/><measure commodity="because" quantity="3"/><measure commodity="mistaken" quantity="3"/><measure commodity="perfectly" quantity="3"/><measure commodity="castle" quantity="3"/><measure commodity="three" quantity="3"/><measure commodity="imagine" quantity="3"/><measure commodity="hard" quantity="3"/><measure commodity="many" quantity="3"/><measure commodity="having" quantity="3"/><measure commodity="bond" quantity="3"/><measure commodity="door" quantity="3"/><measure commodity="history" quantity="3"/><measure commodity="hastily" quantity="3"/><measure commodity="window" quantity="3"/><measure commodity="Eh" quantity="3"/><measure commodity="afraid" quantity="3"/><measure commodity="equally" quantity="3"/><measure commodity="bed" quantity="3"/><measure commodity="grandmother" quantity="3"/><measure commodity="infernal" quantity="3"/><measure commodity="business" quantity="3"/><measure commodity="sum" quantity="3"/><measure commodity="pay" quantity="3"/><measure commodity="money" quantity="3"/><measure commodity="dearest" quantity="3"/><measure commodity="accepts" quantity="3"/><measure commodity="towards" quantity="3"/><measure commodity="forward" quantity="3"/><measure commodity="turn" quantity="3"/><measure commodity="property" quantity="3"/><measure commodity="large" quantity="3"/><measure commodity="Irishman" quantity="3"/><measure commodity="restore" quantity="3"/><measure commodity="end" quantity="3"/><measure commodity="D." quantity="3"/><measure commodity="enemy" quantity="3"/><measure commodity="placed" quantity="3"/><measure commodity="rival" quantity="3"/><measure commodity="garden" quantity="3"/><measure commodity="roof" quantity="3"/><measure commodity="hour" quantity="3"/><measure commodity="Never" quantity="3"/><measure commodity="Low" quantity="3"/><measure commodity="same" quantity="3"/><measure commodity="joy" quantity="3"/><measure commodity="SCENE" quantity="2"/><measure commodity="Drawing" quantity="2"/><measure commodity="Room" quantity="2"/><measure commodity="House" quantity="2"/><measure commodity="discovered" quantity="2"/><measure commodity="Old" quantity="2"/><measure commodity="reading" quantity="2"/><measure commodity="bonnets" quantity="2"/><measure commodity="month" quantity="2"/><measure commodity="Nothing" quantity="2"/><measure commodity="police" quantity="2"/><measure commodity="likeness" quantity="2"/><measure commodity="picking" quantity="2"/><measure commodity="pockets" quantity="2"/><measure commodity="gentlemen" quantity="2"/><measure commodity="youth" quantity="2"/><measure commodity="Will" quantity="2"/><measure commodity="something" quantity="2"/><measure commodity="less" quantity="2"/><measure commodity="pass" quantity="2"/><measure commodity="children" quantity="2"/><measure commodity="shut" quantity="2"/><measure commodity="twelve" quantity="2"/><measure commodity="hours" quantity="2"/><measure commodity="taken" quantity="2"/><measure commodity="foot" quantity="2"/><measure commodity="die" quantity="2"/><measure commodity="leave" quantity="2"/><measure commodity="Girls" quantity="2"/><measure commodity="purse" quantity="2"/><measure commodity="living" quantity="2"/><measure commodity="Once" quantity="2"/><measure commodity="mention" quantity="2"/><measure commodity="furniture" quantity="2"/><measure commodity="away" quantity="2"/><measure commodity="prepared" quantity="2"/><measure commodity="shame" quantity="2"/><measure commodity="husband" quantity="2"/><measure commodity="tie" quantity="2"/><measure commodity="fact" quantity="2"/><measure commodity="solemn" quantity="2"/><measure commodity="promise" quantity="2"/><measure commodity="united" quantity="2"/><measure commodity="Some" quantity="2"/><measure commodity="pledge" quantity="2"/><measure commodity="received" quantity="2"/><measure commodity="telling" quantity="2"/><measure commodity="brogue" quantity="2"/><measure commodity="crimson" quantity="2"/><measure commodity="complexion" quantity="2"/><measure commodity="victim" quantity="2"/><measure commodity="bridegroom" quantity="2"/><measure commodity="portrait" quantity="2"/><measure commodity="expect" quantity="2"/><measure commodity="starts" quantity="2"/><measure commodity="looking" quantity="2"/><measure commodity="sometimes" quantity="2"/><measure commodity="romantic" quantity="2"/><measure commodity="surprised" quantity="2"/><measure commodity="cover" quantity="2"/><measure commodity="possible" quantity="2"/><measure commodity="fall" quantity="2"/><measure commodity="humor" quantity="2"/><measure commodity="With" quantity="2"/><measure commodity="trifling" quantity="2"/><measure commodity="few" quantity="2"/><measure commodity="common" quantity="2"/><measure commodity="best" quantity="2"/><measure commodity="behold" quantity="2"/><measure commodity="compliments" quantity="2"/><measure commodity="ourselves" quantity="2"/><measure commodity="capital" quantity="2"/><measure commodity="mystery" quantity="2"/><measure commodity="low" quantity="2"/><measure commodity="mad" quantity="2"/><measure commodity="marrying" quantity="2"/><measure commodity="choice" quantity="2"/><measure commodity="want" quantity="2"/><measure commodity="rue" quantity="2"/><measure commodity="below" quantity="2"/><measure commodity="rascal" quantity="2"/><measure commodity="Gerald" quantity="2"/><measure commodity="insult" quantity="2"/><measure commodity="courage" quantity="2"/><measure commodity="shillelagh" quantity="2"/><measure commodity="instead" quantity="2"/><measure commodity="Gentleman" quantity="2"/><measure commodity="Shaking" quantity="2"/><measure commodity="devil" quantity="2"/><measure commodity="somewhat" quantity="2"/><measure commodity="At" quantity="2"/><measure commodity="stop" quantity="2"/><measure commodity="acquainted" quantity="2"/><measure commodity="delighted" quantity="2"/><measure commodity="looks" quantity="2"/><measure commodity="Bally" quantity="2"/><measure commodity="need" quantity="2"/><measure commodity="herself" quantity="2"/><measure commodity="aside" quantity="2"/><measure commodity="beg" quantity="2"/><measure commodity="piece" quantity="2"/><measure commodity="brain" quantity="2"/><measure commodity="fever" quantity="2"/><measure commodity="died" quantity="2"/><measure commodity="Still" quantity="2"/><measure commodity="Gracious" quantity="2"/><measure commodity="remarkable" quantity="2"/><measure commodity="safe" quantity="2"/><measure commodity="Allow" quantity="2"/><measure commodity="Take" quantity="2"/><measure commodity="greatest" quantity="2"/><measure commodity="original" quantity="2"/><measure commodity="Takes" quantity="2"/><measure commodity="pocket" quantity="2"/><measure commodity="indeed" quantity="2"/><measure commodity="grieved" quantity="2"/><measure commodity="excellent" quantity="2"/><measure commodity="moustache" quantity="2"/><measure commodity="saw" quantity="2"/><measure commodity="heartless" quantity="2"/><measure commodity="sake" quantity="2"/><measure commodity="strong" quantity="2"/><measure commodity="wear" quantity="2"/><measure commodity="perceive" quantity="2"/><measure commodity="philosophy" quantity="2"/><measure commodity="support" quantity="2"/><measure commodity="stairs" quantity="2"/><measure commodity="Having" quantity="2"/><measure commodity="nothing" quantity="2"/><measure commodity="remains" quantity="2"/><measure commodity="Dress" quantity="2"/><measure commodity="quite" quantity="2"/><measure commodity="ready" quantity="2"/><measure commodity="none" quantity="2"/><measure commodity="meaning" quantity="2"/><measure commodity="informed" quantity="2"/><measure commodity="invitation" quantity="2"/><measure commodity="dress" quantity="2"/><measure commodity="3" quantity="2"/><measure commodity="nor" quantity="2"/><measure commodity="On" quantity="2"/><measure commodity="yes" quantity="2"/><measure commodity="returned" quantity="2"/><measure commodity="call" quantity="2"/><measure commodity="hear" quantity="2"/><measure commodity="until" quantity="2"/><measure commodity="Besides" quantity="2"/><measure commodity="thanks" quantity="2"/><measure commodity="sorry" quantity="2"/><measure commodity="lose" quantity="2"/><measure commodity="together" quantity="2"/><measure commodity="stay" quantity="2"/><measure commodity="youngest" quantity="2"/><measure commodity="glad" quantity="2"/><measure commodity="endeavor" quantity="2"/><measure commodity="famous" quantity="2"/><measure commodity="saying" quantity="2"/><measure commodity="manage" quantity="2"/><measure commodity="presence" quantity="2"/><measure commodity="sight" quantity="2"/><measure commodity="faith" quantity="2"/><measure commodity="sure" quantity="2"/><measure commodity="conceals" quantity="2"/><measure commodity="manner" quantity="2"/><measure commodity="extraordinary" quantity="2"/><measure commodity="difference" quantity="2"/><measure commodity="ruined" quantity="2"/><measure commodity="estates" quantity="2"/><measure commodity="farm" quantity="2"/><measure commodity="gave" quantity="2"/><measure commodity="Fitzmaurices" quantity="2"/><measure commodity="poverty" quantity="2"/><measure commodity="return" quantity="2"/><measure commodity="fair" quantity="2"/><measure commodity="rebuild" quantity="2"/><measure commodity="deception" quantity="2"/><measure commodity="ambition" quantity="2"/><measure commodity="meet" quantity="2"/><measure commodity="woman" quantity="2"/><measure commodity="misfortunes" quantity="2"/><measure commodity="pledged" quantity="2"/><measure commodity="registered" quantity="2"/><measure commodity="born" quantity="2"/><measure commodity="bottom" quantity="2"/><measure commodity="Shall" quantity="2"/><measure commodity="leads" quantity="2"/><measure commodity="honestly" quantity="2"/><measure commodity="Charles" quantity="2"/><measure commodity="Hallo" quantity="2"/><measure commodity="Not" quantity="2"/><measure commodity="regret" quantity="2"/><measure commodity="enter" quantity="2"/><measure commodity="God" quantity="2"/><measure commodity="Spriggins" quantity="2"/><measure commodity="companion" quantity="2"/><measure commodity="Capital" quantity="2"/><measure commodity="explanation" quantity="2"/><measure commodity="dare" quantity="2"/><measure commodity="discrimination" quantity="2"/><measure commodity="Crosses" quantity="2"/><measure commodity="nightcap" quantity="2"/><measure commodity="ill" quantity="2"/><measure commodity="these" quantity="2"/><measure commodity="d'ye" quantity="2"/><measure commodity="arter" quantity="2"/><measure commodity="tis" quantity="2"/><measure commodity="chap" quantity="2"/><measure commodity="writ" quantity="2"/><measure commodity="wrong" quantity="2"/><measure commodity="Twas" quantity="2"/><measure commodity="gives" quantity="2"/><measure commodity="hang" quantity="2"/><measure commodity="jail" quantity="2"/><measure commodity="new" quantity="2"/><measure commodity="prove" quantity="2"/><measure commodity="grant" quantity="2"/><measure commodity="request" quantity="2"/><measure commodity="Did" quantity="2"/><measure commodity="excited" quantity="2"/><measure commodity="ask" quantity="2"/><measure commodity="draw" quantity="2"/><measure commodity="check" quantity="2"/><measure commodity="people" quantity="2"/><measure commodity="friends" quantity="2"/><measure commodity="perhaps" quantity="2"/><measure commodity="hospitality" quantity="2"/><measure commodity="odd" quantity="2"/><measure commodity="hundred" quantity="2"/><measure commodity="yours" quantity="2"/><measure commodity="near" quantity="2"/><measure commodity="made" quantity="2"/><measure commodity="left" quantity="2"/><measure commodity="Turning" quantity="2"/><measure commodity="honest" quantity="2"/><measure commodity="run" quantity="2"/><measure commodity="Are" quantity="2"/><measure commodity="countrymen" quantity="2"/><measure commodity="offer" quantity="2"/><measure commodity="identity" quantity="2"/><measure commodity="favor" quantity="2"/><measure commodity="object" quantity="2"/><measure commodity="skirts" quantity="2"/><measure commodity="bullet" quantity="2"/><measure commodity="playing" quantity="2"/><measure commodity="wants" quantity="2"/><measure commodity="brandy" quantity="2"/><measure commodity="segars" quantity="2"/><measure commodity="reputation" quantity="2"/><measure commodity="mine" quantity="2"/><measure commodity="colors" quantity="2"/><measure commodity="Fitz" quantity="2"/><measure commodity="An" quantity="2"/><measure commodity="compliment" quantity="2"/><measure commodity="lady" quantity="2"/><measure commodity="sought" quantity="2"/><measure commodity="affair" quantity="2"/><measure commodity="place" quantity="2"/><measure commodity="weapons" quantity="2"/><measure commodity="trees" quantity="2"/><measure commodity="pleasant" quantity="2"/><measure commodity="rule" quantity="2"/><measure commodity="help" quantity="2"/><measure commodity="half" quantity="2"/><measure commodity="luck" quantity="2"/><measure commodity="sooner" quantity="2"/><measure commodity="confounded" quantity="2"/><measure commodity="state" quantity="2"/><measure commodity="mind" quantity="2"/><measure commodity="dishonored" quantity="2"/><measure commodity="Without" quantity="2"/><measure commodity="lucky" quantity="2"/><measure commodity="boy" quantity="2"/><measure commodity="Stops" quantity="2"/><measure commodity="circumstances" quantity="2"/><measure commodity="forgive" quantity="2"/><measure commodity="general" quantity="2"/><measure commodity="sunshine" quantity="2"/><measure commodity="unwinding" quantity="1"/><measure commodity="skein" quantity="1"/><measure commodity="silk" quantity="1"/><measure commodity="standing" quantity="1"/><measure commodity="fireplace" quantity="1"/><measure commodity="newspaper" quantity="1"/><measure commodity="Hum" quantity="1"/><measure commodity="Great" quantity="1"/><measure commodity="Flounces" quantity="1"/><measure commodity="small" quantity="1"/><measure commodity="milliner" quantity="1"/><measure commodity="bills" quantity="1"/><measure commodity="egad" quantity="1"/><measure commodity="fashion" quantity="1"/><measure commodity="smaller" quantity="1"/><measure commodity="yesterday" quantity="1"/><measure commodity="Sundays" quantity="1"/><measure commodity="reports" quantity="1"/><measure commodity="parliamentary" quantity="1"/><measure commodity="debates" quantity="1"/><measure commodity="striking" quantity="1"/><measure commodity="read" quantity="1"/><measure commodity="fellows" quantity="1"/><measure commodity="individuals" quantity="1"/><measure commodity="discover" quantity="1"/><measure commodity="nation" quantity="1"/><measure commodity="Bankruptcy" quantity="1"/><measure commodity="Court" quantity="1"/><measure commodity="awful" quantity="1"/><measure commodity="extravagance" quantity="1"/><measure commodity="application" quantity="1"/><measure commodity="refused" quantity="1"/><measure commodity="print" quantity="1"/><measure commodity="extravagant" quantity="1"/><measure commodity="graceless" quantity="1"/><measure commodity="puppy" quantity="1"/><measure commodity="severe" quantity="1"/><measure commodity="Hear" quantity="1"/><measure commodity="accuse" quantity="1"/><measure commodity="parents" quantity="1"/><measure commodity="philosopher" quantity="1"/><measure commodity="petticoats" quantity="1"/><measure commodity="bill" quantity="1"/><measure commodity="sent" quantity="1"/><measure commodity="forty" quantity="1"/><measure commodity="pairs" quantity="1"/><measure commodity="boots" quantity="1"/><measure commodity="clothespress" quantity="1"/><measure commodity="avoid" quantity="1"/><measure commodity="court" quantity="1"/><measure commodity="breaking" quantity="1"/><measure commodity="cabman" quantity="1"/><measure commodity="nose" quantity="1"/><measure commodity="fined" quantity="1"/><measure commodity="ten" quantity="1"/><measure commodity="fracture" quantity="1"/><measure commodity="youthful" quantity="1"/><measure commodity="performances" quantity="1"/><measure commodity="humble" quantity="1"/><measure commodity="compared" quantity="1"/><measure commodity="blessing" quantity="1"/><measure commodity="Jew" quantity="1"/><measure commodity="city" quantity="1"/><measure commodity="lend" quantity="1"/><measure commodity="attempting" quantity="1"/><measure commodity="intercede" quantity="1"/><measure commodity="exhausted" quantity="1"/><measure commodity="patience" quantity="1"/><measure commodity="fast" quantity="1"/><measure commodity="outstripped" quantity="1"/><measure commodity="intend" quantity="1"/><measure commodity="decrease" quantity="1"/><measure commodity="distance" quantity="1"/><measure commodity="disown" quantity="1"/><measure commodity="forbid" quantity="1"/><measure commodity="lips" quantity="1"/><measure commodity="hearts" quantity="1"/><measure commodity="home" quantity="1"/><measure commodity="deuced" quantity="1"/><measure commodity="mortgage" quantity="1"/><measure commodity="fixtures" quantity="1"/><measure commodity="retires" quantity="1"/><measure commodity="table" quantity="1"/><measure commodity="Nicely" quantity="1"/><measure commodity="fitted" quantity="1"/><measure commodity="Shame" quantity="1"/><measure commodity="looked" quantity="1"/><measure commodity="comfort" quantity="1"/><measure commodity="alone" quantity="1"/><measure commodity="guest" quantity="1"/><measure commodity="intentions" quantity="1"/><measure commodity="oldest" quantity="1"/><measure commodity="merchant" quantity="1"/><measure commodity="Jamaica" quantity="1"/><measure commodity="eternal" quantity="1"/><measure commodity="gratitude" quantity="1"/><measure commodity="twenty" quantity="1"/><measure commodity="purchased" quantity="1"/><measure commodity="went" quantity="1"/><measure commodity="reside" quantity="1"/><measure commodity="parted" quantity="1"/><measure commodity="exacted" quantity="1"/><measure commodity="curiously" quantity="1"/><measure commodity="within" quantity="1"/><measure commodity="week" quantity="1"/><measure commodity="each" quantity="1"/><measure commodity="wrote" quantity="1"/><measure commodity="reminding" quantity="1"/><measure commodity="ago" quantity="1"/><measure commodity="grown" quantity="1"/><measure commodity="handsome" quantity="1"/><measure commodity="although" quantity="1"/><measure commodity="start" quantity="1"/><measure commodity="fortnight" quantity="1"/><measure commodity="bride" quantity="1"/><measure commodity="words" quantity="1"/><measure commodity="vastly" quantity="1"/><measure commodity="usually" quantity="1"/><measure commodity="shakes" quantity="1"/><measure commodity="wanted" quantity="1"/><measure commodity="crush" quantity="1"/><measure commodity="fingers" quantity="1"/><measure commodity="Entering" quantity="1"/><measure commodity="ought" quantity="1"/><measure commodity="flattered" quantity="1"/><measure commodity="whoever" quantity="1"/><measure commodity="Down" quantity="1"/><measure commodity="Only" quantity="1"/><measure commodity="amusing" quantity="1"/><measure commodity="painting" quantity="1"/><measure commodity="fancy" quantity="1"/><measure commodity="reminds" quantity="1"/><measure commodity="uncle" quantity="1"/><measure commodity="relates" quantity="1"/><measure commodity="Reading" quantity="1"/><measure commodity="morrow" quantity="1"/><measure commodity="Interrupting" quantity="1"/><measure commodity="satisfies" quantity="1"/><measure commodity="amiable" quantity="1"/><measure commodity="clever" quantity="1"/><measure commodity="however" quantity="1"/><measure commodity="conceal" quantity="1"/><measure commodity="addicted" quantity="1"/><measure commodity="instance" quantity="1"/><measure commodity="intends" quantity="1"/><measure commodity="presenting" quantity="1"/><measure commodity="viewing" quantity="1"/><measure commodity="calls" quantity="1"/><measure commodity="impartial" quantity="1"/><measure commodity="point" quantity="1"/><measure commodity="view" quantity="1"/><measure commodity="therefore" quantity="1"/><measure commodity="story" quantity="1"/><measure commodity="coin" quantity="1"/><measure commodity="betrayed" quantity="1"/><measure commodity="eccentricity" quantity="1"/><measure commodity="faults" quantity="1"/><measure commodity="age" quantity="1"/><measure commodity="student" quantity="1"/><measure commodity="indulged" quantity="1"/><measure commodity="dissipations" quantity="1"/><measure commodity="regards" quantity="1"/><measure commodity="law" quantity="1"/><measure commodity="impatient" quantity="1"/><measure commodity="manor" quantity="1"/><measure commodity="rest" quantity="1"/><measure commodity="Stephen" quantity="1"/><measure commodity="allow" quantity="1"/><measure commodity="joke" quantity="1"/><measure commodity="thinking" quantity="1"/><measure commodity="deceiving" quantity="1"/><measure commodity="Retires" quantity="1"/><measure commodity="permit" quantity="1"/><measure commodity="sacrificed" quantity="1"/><measure commodity="fool" quantity="1"/><measure commodity="encouragement" quantity="1"/><measure commodity="Pray" quantity="1"/><measure commodity="madness" quantity="1"/><measure commodity="caution" quantity="1"/><measure commodity="d" quantity="1"/><measure commodity="lunatic" quantity="1"/><measure commodity="stand" quantity="1"/><measure commodity="unequal" quantity="1"/><measure commodity="leveling" quantity="1"/><measure commodity="distinction" quantity="1"/><measure commodity="exists" quantity="1"/><measure commodity="Death" quantity="1"/><measure commodity="encourage" quantity="1"/><measure commodity="polite" quantity="1"/><measure commodity="ladies" quantity="1"/><measure commodity="badly" quantity="1"/><measure commodity="kitchen" quantity="1"/><measure commodity="corpse" quantity="1"/><measure commodity="add" quantity="1"/><measure commodity="rosemary" quantity="1"/><measure commodity="decorate" quantity="1"/><measure commodity="tomb" quantity="1"/><measure commodity="Cruel" quantity="1"/><measure commodity="particularly" quantity="1"/><measure commodity="Winking" quantity="1"/><measure commodity="lay" quantity="1"/><measure commodity="basket" quantity="1"/><measure commodity="champagne" quantity="1"/><measure commodity="Show" quantity="1"/><measure commodity="girls" quantity="1"/><measure commodity="top" quantity="1"/><measure commodity="bent" quantity="1"/><measure commodity="sneak" quantity="1"/><measure commodity="spark" quantity="1"/><measure commodity="Announcing" quantity="1"/><measure commodity="Cupid" quantity="1"/><measure commodity="arrow" quantity="1"/><measure commodity="eighth" quantity="1"/><measure commodity="wonder" quantity="1"/><measure commodity="Fitemaurice" quantity="1"/><measure commodity="slowly" quantity="1"/><measure commodity="lugubrious" quantity="1"/><measure commodity="air" quantity="1"/><measure commodity="advances" quantity="1"/><measure commodity="salute" quantity="1"/><measure commodity="warmly" quantity="1"/><measure commodity="reception" quantity="1"/><measure commodity="warmer" quantity="1"/><measure commodity="service" quantity="1"/><measure commodity="duty" quantity="1"/><measure commodity="Stop" quantity="1"/><measure commodity="nephew" quantity="1"/><measure commodity="Looks" quantity="1"/><measure commodity="scowls" quantity="1"/><measure commodity="Beautiful" quantity="1"/><measure commodity="refreshment" quantity="1"/><measure commodity="journey" quantity="1"/><measure commodity="ring" quantity="1"/><measure commodity="wine" quantity="1"/><measure commodity="hospitable" quantity="1"/><measure commodity="whisper" quantity="1"/><measure commodity="Just" quantity="1"/><measure commodity="arrived" quantity="1"/><measure commodity="private" quantity="1"/><measure commodity="prepare" quantity="1"/><measure commodity="Go" quantity="1"/><measure commodity="expected" quantity="1"/><measure commodity="appointment" quantity="1"/><measure commodity="mirth" quantity="1"/><measure commodity="change" quantity="1"/><measure commodity="tears" quantity="1"/><measure commodity="passage" quantity="1"/><measure commodity="illness" quantity="1"/><measure commodity="smiling" quantity="1"/><measure commodity="understood" quantity="1"/><measure commodity="repeat" quantity="1"/><measure commodity="expired" quantity="1"/><measure commodity="arms" quantity="1"/><measure commodity="injunctions" quantity="1"/><measure commodity="charge" quantity="1"/><measure commodity="effects" quantity="1"/><measure commodity="entrusted" quantity="1"/><measure commodity="sorrow" quantity="1"/><measure commodity="dies" quantity="1"/><measure commodity="smile" quantity="1"/><measure commodity="greatly" quantity="1"/><measure commodity="resemblance" quantity="1"/><measure commodity="assure" quantity="1"/><measure commodity="Pooh" quantity="1"/><measure commodity="Where" quantity="1"/><measure commodity="wore" quantity="1"/><measure commodity="besides" quantity="1"/><measure commodity="Hem" quantity="1"/><measure commodity="glimpse" quantity="1"/><measure commodity="tries" quantity="1"/><measure commodity="suddenly" quantity="1"/><measure commodity="kill" quantity="1"/><measure commodity="nerves" quantity="1"/><measure commodity="cypress" quantity="1"/><measure commodity="brutes" quantity="1"/><measure commodity="Absolutely" quantity="1"/><measure commodity="event" quantity="1"/><measure commodity="borne" quantity="1"/><measure commodity="fortitude" quantity="1"/><measure commodity="sufficiently" quantity="1"/><measure commodity="nerve" quantity="1"/><measure commodity="supports" quantity="1"/><measure commodity="shocking" quantity="1"/><measure commodity="teaches" quantity="1"/><measure commodity="trials" quantity="1"/><measure commodity="enables" quantity="1"/><measure commodity="disguises" quantity="1"/><measure commodity="otherwise" quantity="1"/><measure commodity="performed" quantity="1"/><measure commodity="mission" quantity="1"/><measure commodity="luggage" quantity="1"/><measure commodity="papers" quantity="1"/><measure commodity="sealed" quantity="1"/><measure commodity="writing" quantity="1"/><measure commodity="desk" quantity="1"/><measure commodity="accomplished" quantity="1"/><measure commodity="removed" quantity="1"/><measure commodity="brought" quantity="1"/><measure commodity="coats" quantity="1"/><measure commodity="fit" quantity="1"/><measure commodity="Invites" quantity="1"/><measure commodity="cooly" quantity="1"/><measure commodity="suggests" quantity="1"/><measure commodity="clothes" quantity="1"/><measure commodity="met" quantity="1"/><measure commodity="required" quantity="1"/><measure commodity="meant" quantity="1"/><measure commodity="along" quantity="1"/><measure commodity="Exeunt" quantity="1"/><measure commodity="carry" quantity="1"/><measure commodity="whole" quantity="1"/><measure commodity="gentlemanly" quantity="1"/><measure commodity="deceit" quantity="1"/><measure commodity="cool" quantity="1"/><measure commodity="romanced" quantity="1"/><measure commodity="elsewhere" quantity="1"/><measure commodity="cousin" quantity="1"/><measure commodity="whether" quantity="1"/><measure commodity="hopeless" quantity="1"/><measure commodity="Papa" quantity="1"/><measure commodity="penny" quantity="1"/><measure commodity="aunt" quantity="1"/><measure commodity="legacy" quantity="1"/><measure commodity="heiress" quantity="1"/><measure commodity="wait" quantity="1"/><measure commodity="orange" quantity="1"/><measure commodity="blossom" quantity="1"/><measure commodity="willow" quantity="1"/><measure commodity="leaf" quantity="1"/><measure commodity="bets" quantity="1"/><measure commodity="hedging" quantity="1"/><measure commodity="wo" quantity="1"/><measure commodity="compromise" quantity="1"/><measure commodity="Which" quantity="1"/><measure commodity="betrothed" quantity="1"/><measure commodity="style" quantity="1"/><measure commodity="completely" quantity="1"/><measure commodity="Ahem" quantity="1"/><measure commodity="Advances" quantity="1"/><measure commodity="Ladies" quantity="1"/><measure commodity="charmingly" quantity="1"/><measure commodity="situated" quantity="1"/><measure commodity="agreeably" quantity="1"/><measure commodity="society" quantity="1"/><measure commodity="effort" quantity="1"/><measure commodity="superfluous" quantity="1"/><measure commodity="Whispering" quantity="1"/><measure commodity="blarney" quantity="1"/><measure commodity="flatter" quantity="1"/><measure commodity="pride" quantity="1"/><measure commodity="lies" quantity="1"/><measure commodity="Those" quantity="1"/><measure commodity="dull" quantity="1"/><measure commodity="town" quantity="1"/><measure commodity="skies" quantity="1"/><measure commodity="brightened" quantity="1"/><measure commodity="miss" quantity="1"/><measure commodity="singing" quantity="1"/><measure commodity="birds" quantity="1"/><measure commodity="listening" quantity="1"/><measure commodity="Regent" quantity="1"/><measure commodity="Street" quantity="1"/><measure commodity="spots" quantity="1"/><measure commodity="step" quantity="1"/><measure commodity="English" quantity="1"/><measure commodity="pure" quantity="1"/><measure commodity="gallantry" quantity="1"/><measure commodity="excuse" quantity="1"/><measure commodity="moments" quantity="1"/><measure commodity="entertain" quantity="1"/><measure commodity="absence" quantity="1"/><measure commodity="Au" quantity="1"/><measure commodity="revoir" quantity="1"/><measure commodity="appear" quantity="1"/><measure commodity="unparalleled" quantity="1"/><measure commodity="assurance" quantity="1"/><measure commodity="understand" quantity="1"/><measure commodity="aching" quantity="1"/><measure commodity="smiles" quantity="1"/><measure commodity="artistic" quantity="1"/><measure commodity="Excuse" quantity="1"/><measure commodity="amiability" quantity="1"/><measure commodity="inclined" quantity="1"/><measure commodity="blunder" quantity="1"/><measure commodity="Either" quantity="1"/><measure commodity="either" quantity="1"/><measure commodity="From" quantity="1"/><measure commodity="sea" quantity="1"/><measure commodity="ivied" quantity="1"/><measure commodity="walls" quantity="1"/><measure commodity="broken" quantity="1"/><measure commodity="arches" quantity="1"/><measure commodity="bears" quantity="1"/><measure commodity="belonged" quantity="1"/><measure commodity="ancestors" quantity="1"/><measure commodity="belongs" quantity="1"/><measure commodity="lived" quantity="1"/><measure commodity="touching" quantity="1"/><measure commodity="descended" quantity="1"/><measure commodity="remained" quantity="1"/><measure commodity="overlooks" quantity="1"/><measure commodity="Moved" quantity="1"/><measure commodity="grey" quantity="1"/><measure commodity="turrets" quantity="1"/><measure commodity="lords" quantity="1"/><measure commodity="cheers" quantity="1"/><measure commodity="gloom" quantity="1"/><measure commodity="knight" quantity="1"/><measure commodity="errant" quantity="1"/><measure commodity="seeking" quantity="1"/><measure commodity="conquer" quantity="1"/><measure commodity="Smiling" quantity="1"/><measure commodity="succeeded" quantity="1"/><measure commodity="darling" quantity="1"/><measure commodity="able" quantity="1"/><measure commodity="Look" quantity="1"/><measure commodity="glorious" quantity="1"/><measure commodity="moves" quantity="1"/><measure commodity="strangely" quantity="1"/><measure commodity="Alas" quantity="1"/><measure commodity="retain" quantity="1"/><measure commodity="dream" quantity="1"/><measure commodity="hers" quantity="1"/><measure commodity="Holds" quantity="1"/><measure commodity="declaration" quantity="1"/><measure commodity="Rising" quantity="1"/><measure commodity="Call" quantity="1"/><measure commodity="exposure" quantity="1"/><measure commodity="proud" quantity="1"/><measure commodity="Beggars" quantity="1"/><measure commodity="choosers" quantity="1"/><measure commodity="chosen" quantity="1"/><measure commodity="astounded" quantity="1"/><measure commodity="duplicity" quantity="1"/><measure commodity="confess" quantity="1"/><measure commodity="eloquence" quantity="1"/><measure commodity="fictitious" quantity="1"/><measure commodity="touch" quantity="1"/><measure commodity="deeply" quantity="1"/><measure commodity="men" quantity="1"/><measure commodity="masks" quantity="1"/><measure commodity="union" quantity="1"/><measure commodity="delicacy" quantity="1"/><measure commodity="unreal" quantity="1"/><measure commodity="woes" quantity="1"/><measure commodity="seek" quantity="1"/><measure commodity="sympathies" quantity="1"/><measure commodity="amusement" quantity="1"/><measure commodity="abrubtly" quantity="1"/><measure commodity="Astonished" quantity="1"/><measure commodity="Gone" quantity="1"/><measure commodity="earth" quantity="1"/><measure commodity="plead" quantity="1"/><measure commodity="minority" quantity="1"/><measure commodity="safely" quantity="1"/><measure commodity="bewildered" quantity="1"/><measure commodity="fathom" quantity="1"/><measure commodity="comfortable" quantity="1"/><measure commodity="residence" quantity="1"/><measure commodity="dinners" quantity="1"/><measure commodity="acquitted" quantity="1"/><measure commodity="treachery" quantity="1"/><measure commodity="given" quantity="1"/><measure commodity="fault" quantity="1"/><measure commodity="shave" quantity="1"/><measure commodity="flown" quantity="1"/><measure commodity="Escaped" quantity="1"/><measure commodity="miracle" quantity="1"/><measure commodity="seem" quantity="1"/><measure commodity="hurry" quantity="1"/><measure commodity="reptiles" quantity="1"/><measure commodity="anywhere" quantity="1"/><measure commodity="neighborhood" quantity="1"/><measure commodity="shortly" quantity="1"/><measure commodity="Good" quantity="1"/><measure commodity="whose" quantity="1"/><measure commodity="Buckmaster" quantity="1"/><measure commodity="misfortune" quantity="1"/><measure commodity="affords" quantity="1"/><measure commodity="consolation" quantity="1"/><measure commodity="creature" quantity="1"/><measure commodity="belief" quantity="1"/><measure commodity="writs" quantity="1"/><measure commodity="body" quantity="1"/><measure commodity="martyr" quantity="1"/><measure commodity="endears" quantity="1"/><measure commodity="Lucky" quantity="1"/><measure commodity="quarrel" quantity="1"/><measure commodity="Extravagant" quantity="1"/><measure commodity="Bills" quantity="1"/><measure commodity="bailiffs" quantity="1"/><measure commodity="opera" quantity="1"/><measure commodity="dancers" quantity="1"/><measure commodity="Expatriated" quantity="1"/><measure commodity="cut" quantity="1"/><measure commodity="terseness" quantity="1"/><measure commodity="Both" quantity="1"/><measure commodity="fruits" quantity="1"/><measure commodity="experience" quantity="1"/><measure commodity="Hastily" quantity="1"/><measure commodity="Window" quantity="1"/><measure commodity="forbids" quantity="1"/><measure commodity="anxious" quantity="1"/><measure commodity="consider" quantity="1"/><measure commodity="whim" quantity="1"/><measure commodity="explain" quantity="1"/><measure commodity="hereafter" quantity="1"/><measure commodity="Shut" quantity="1"/><measure commodity="necessary" quantity="1"/><measure commodity="swallowed" quantity="1"/><measure commodity="pastry" quantity="1"/><measure commodity="cook" quantity="1"/><measure commodity="goes" quantity="1"/><measure commodity="Hark" quantity="1"/><measure commodity="noise" quantity="1"/><measure commodity="Be" quantity="1"/><measure commodity="shamming" quantity="1"/><measure commodity="nt" quantity="1"/><measure commodity="congratulating" quantity="1"/><measure commodity="Curse" quantity="1"/><measure commodity="mysteries" quantity="1"/><measure commodity="Know" quantity="1"/><measure commodity="establishment" quantity="1"/><measure commodity="peeps" quantity="1"/><measure commodity="Cotched" quantity="1"/><measure commodity="Advancing" quantity="1"/><measure commodity="servant" quantity="1"/><measure commodity="Haughtily" quantity="1"/><measure commodity="thinks" quantity="1"/><measure commodity="undeceive" quantity="1"/><measure commodity="Halloa" quantity="1"/><measure commodity="sworn" quantity="1"/><measure commodity="twas" quantity="1"/><measure commodity="t'other" quantity="1"/><measure commodity="anyway" quantity="1"/><measure commodity="Hands" quantity="1"/><measure commodity="destroy" quantity="1"/><measure commodity="Tears" quantity="1"/><measure commodity="box" quantity="1"/><measure commodity="red" quantity="1"/><measure commodity="breast" quantity="1"/><measure commodity="exactly" quantity="1"/><measure commodity="copy" quantity="1"/><measure commodity="copies" quantity="1"/><measure commodity="gemmen" quantity="1"/><measure commodity="Thunder" quantity="1"/><measure commodity="devils" quantity="1"/><measure commodity="Yourself" quantity="1"/><measure commodity="Been" quantity="1"/><measure commodity="forring" quantity="1"/><measure commodity="parts" quantity="1"/><measure commodity="heerd" quantity="1"/><measure commodity="Thought" quantity="1"/><measure commodity="musn't" quantity="1"/><measure commodity="suspect" quantity="1"/><measure commodity="quietly" quantity="1"/><measure commodity="booked" quantity="1"/><measure commodity="months" quantity="1"/><measure commodity="war" quantity="1"/><measure commodity="complain" quantity="1"/><measure commodity="crib" quantity="1"/><measure commodity="scoundrel" quantity="1"/><measure commodity="scapgrace" quantity="1"/><measure commodity="twill" quantity="1"/><measure commodity="Behold" quantity="1"/><measure commodity="thank" quantity="1"/><measure commodity="device" quantity="1"/><measure commodity="Confound" quantity="1"/><measure commodity="whatever" quantity="1"/><measure commodity="cease" quantity="1"/><measure commodity="absurd" quantity="1"/><measure commodity="repetition" quantity="1"/><measure commodity="Ask" quantity="1"/><measure commodity="Pointing" quantity="1"/><measure commodity="naturally" quantity="1"/><measure commodity="plays" quantity="1"/><measure commodity="bribed" quantity="1"/><measure commodity="checkmate" quantity="1"/><measure commodity="Ninety" quantity="1"/><measure commodity="eight" quantity="1"/><measure commodity="sixpence" quantity="1"/><measure commodity="pardon" quantity="1"/><measure commodity="allude" quantity="1"/><measure commodity="paying" quantity="1"/><measure commodity="delusion" quantity="1"/><measure commodity="imagination" quantity="1"/><measure commodity="condition" quantity="1"/><measure commodity="Precisely" quantity="1"/><measure commodity="except" quantity="1"/><measure commodity="disposal" quantity="1"/><measure commodity="keeps" quantity="1"/><measure commodity="admirably" quantity="1"/><measure commodity="trap" quantity="1"/><measure commodity="guardian" quantity="1"/><measure commodity="angels" quantity="1"/><measure commodity="interfering" quantity="1"/><measure commodity="releasing" quantity="1"/><measure commodity="clutches" quantity="1"/><measure commodity="realize" quantity="1"/><measure commodity="scarcely" quantity="1"/><measure commodity="known" quantity="1"/><measure commodity="accounts" quantity="1"/><measure commodity="though" quantity="1"/><measure commodity="arranged" quantity="1"/><measure commodity="equal" quantity="1"/><measure commodity="amazed" quantity="1"/><measure commodity="blow" quantity="1"/><measure commodity="brains" quantity="1"/><measure commodity="Honor" quantity="1"/><measure commodity="Refuse" quantity="1"/><measure commodity="interest" quantity="1"/><measure commodity="whispers" quantity="1"/><measure commodity="Accept" quantity="1"/><measure commodity="vision" quantity="1"/><measure commodity="grand" quantity="1"/><measure commodity="barony" quantity="1"/><measure commodity="groping" quantity="1"/><measure commodity="Seize" quantity="1"/><measure commodity="blind" quantity="1"/><measure commodity="goddess" quantity="1"/><measure commodity="oh" quantity="1"/><measure commodity="err" quantity="1"/><measure commodity="knows" quantity="1"/><measure commodity="sakes" quantity="1"/><measure commodity="latter" quantity="1"/><measure commodity="contrives" quantity="1"/><measure commodity="interpose" quantity="1"/><measure commodity="joins" quantity="1"/><measure commodity="discovers" quantity="1"/><measure commodity="pushes" quantity="1"/><measure commodity="brings" quantity="1"/><measure commodity="Pushing" quantity="1"/><measure commodity="Joins" quantity="1"/><measure commodity="Bless" quantity="1"/><measure commodity="meantime" quantity="1"/><measure commodity="places" quantity="1"/><measure commodity="confused" quantity="1"/><measure commodity="Confused" quantity="1"/><measure commodity="attempts" quantity="1"/><measure commodity="endeavors" quantity="1"/><measure commodity="restrain" quantity="1"/><measure commodity="violence" quantity="1"/><measure commodity="manifests" quantity="1"/><measure commodity="impatience" quantity="1"/><measure commodity="solus" quantity="1"/><measure commodity="seated" quantity="1"/><measure commodity="easy" quantity="1"/><measure commodity="chair" quantity="1"/><measure commodity="adventure" quantity="1"/><measure commodity="worthy" quantity="1"/><measure commodity="explanations" quantity="1"/><measure commodity="down" quantity="1"/><measure commodity="hypocrisy" quantity="1"/><measure commodity="short" quantity="1"/><measure commodity="accept" quantity="1"/><measure commodity="force" quantity="1"/><measure commodity="Nominally" quantity="1"/><measure commodity="mystified" quantity="1"/><measure commodity="mystify" quantity="1"/><measure commodity="others" quantity="1"/><measure commodity="comedy" quantity="1"/><measure commodity="errors" quantity="1"/><measure commodity="consistent" quantity="1"/><measure commodity="suffer" quantity="1"/><measure commodity="spent" quantity="1"/><measure commodity="begging" quantity="1"/><measure commodity="bring" quantity="1"/><measure commodity="truth" quantity="1"/><measure commodity="strange" quantity="1"/><measure commodity="inclination" quantity="1"/><measure commodity="linger" quantity="1"/><measure commodity="fascinated" quantity="1"/><measure commodity="cling" quantity="1"/><measure commodity="straw" quantity="1"/><measure commodity="buoy" quantity="1"/><measure commodity="wild" quantity="1"/><measure commodity="hopes" quantity="1"/><measure commodity="Pardon" quantity="1"/><measure commodity="Pardons" quantity="1"/><measure commodity="generally" quantity="1"/><measure commodity="granted" quantity="1"/><measure commodity="ruler" quantity="1"/><measure commodity="slave" quantity="1"/><measure commodity="Another" quantity="1"/><measure commodity="exhausting" quantity="1"/><measure commodity="stock" quantity="1"/><measure commodity="assortment" quantity="1"/><measure commodity="tongue" quantity="1"/><measure commodity="bitter" quantity="1"/><measure commodity="existed" quantity="1"/><measure commodity="possessions" quantity="1"/><measure commodity="kingdom" quantity="1"/><measure commodity="faithful" quantity="1"/><measure commodity="acres" quantity="1"/><measure commodity="merry" quantity="1"/><measure commodity="England" quantity="1"/><measure commodity="quell" quantity="1"/><measure commodity="rising" quantity="1"/><measure commodity="dissimulation" quantity="1"/><measure commodity="perfect" quantity="1"/><measure commodity="matters" quantity="1"/><measure commodity="consent" quantity="1"/><measure commodity="decision" quantity="1"/><measure commodity="prospects" quantity="1"/><measure commodity="glowing" quantity="1"/><measure commodity="inducement" quantity="1"/><measure commodity="disenchanting" quantity="1"/><measure commodity="lens" quantity="1"/><measure commodity="matrimony" quantity="1"/><measure commodity="Nevertheless" quantity="1"/><measure commodity="chance" quantity="1"/><measure commodity="its" quantity="1"/><measure commodity="terminating" quantity="1"/><measure commodity="telescope" quantity="1"/><measure commodity="diminished" quantity="1"/><measure commodity="tremendously" quantity="1"/><measure commodity="clinging" quantity="1"/><measure commodity="clung" quantity="1"/><measure commodity="lawyers" quantity="1"/><measure commodity="waste" quantity="1"/><measure commodity="Put" quantity="1"/><measure commodity="pain" quantity="1"/><measure commodity="Say" quantity="1"/><measure commodity="send" quantity="1"/><measure commodity="horrible" quantity="1"/><measure commodity="ne" quantity="1"/><measure commodity="suspense" quantity="1"/><measure commodity="confuse" quantity="1"/><measure commodity="language" quantity="1"/><measure commodity="duties" quantity="1"/><measure commodity="bedridden" quantity="1"/><measure commodity="housekeeper" quantity="1"/><measure commodity="secret" quantity="1"/><measure commodity="neither" quantity="1"/><measure commodity="injure" quantity="1"/><measure commodity="2" quantity="1"/><measure commodity="Solus" quantity="1"/><measure commodity="false" quantity="1"/><measure commodity="undeceived" quantity="1"/><measure commodity="what's" quantity="1"/><measure commodity="Thingumbob" quantity="1"/><measure commodity="round" quantity="1"/><measure commodity="Faith" quantity="1"/><measure commodity="become" quantity="1"/><measure commodity="deadly" quantity="1"/><measure commodity="information" quantity="1"/><measure commodity="crossed" quantity="1"/><measure commodity="path" quantity="1"/><measure commodity="stage" quantity="1"/><measure commodity="quicken" quantity="1"/><measure commodity="apprehension" quantity="1"/><measure commodity="affections" quantity="1"/><measure commodity="Have" quantity="1"/><measure commodity="already" quantity="1"/><measure commodity="played" quantity="1"/><measure commodity="coquette" quantity="1"/><measure commodity="insist" quantity="1"/><measure commodity="relinquishing" quantity="1"/><measure commodity="claim" quantity="1"/><measure commodity="Passionately" quantity="1"/><measure commodity="lie" quantity="1"/><measure commodity="Softly" quantity="1"/><measure commodity="softly" quantity="1"/><measure commodity="objections" quantity="1"/><measure commodity="spoil" quantity="1"/><measure commodity="lined" quantity="1"/><measure commodity="certainty" quantity="1"/><measure commodity="suggest" quantity="1"/><measure commodity="spot" quantity="1"/><measure commodity="observed" quantity="1"/><measure commodity="entering" quantity="1"/><measure commodity="flat" quantity="1"/><measure commodity="admirable" quantity="1"/><measure commodity="locality" quantity="1"/><measure commodity="diversion" quantity="1"/><measure commodity="Fine" quantity="1"/><measure commodity="prospect" quantity="1"/><measure commodity="Charming" quantity="1"/><measure commodity="seclusion" quantity="1"/><measure commodity="Elevated" quantity="1"/><measure commodity="above" quantity="1"/><measure commodity="strife" quantity="1"/><measure commodity="peace" quantity="1"/><measure commodity="Anywhere" quantity="1"/><measure commodity="rid" quantity="1"/><measure commodity="hateful" quantity="1"/><measure commodity="exchange" quantity="1"/><measure commodity="action" quantity="1"/><measure commodity="Get" quantity="1"/><measure commodity="Confusedly" quantity="1"/><measure commodity="exception" quantity="1"/><measure commodity="surely" quantity="1"/><measure commodity="gunsmith" quantity="1"/><measure commodity="pair" quantity="1"/><measure commodity="stops" quantity="1"/><measure commodity="hindrance" quantity="1"/><measure commodity="spend" quantity="1"/><measure commodity="inherit" quantity="1"/><measure commodity="harem" quantity="1"/><measure commodity="scarem" quantity="1"/><measure commodity="kicking" quantity="1"/><measure commodity="bucket" quantity="1"/><measure commodity="decided" quantity="1"/><measure commodity="Die" quantity="1"/><measure commodity="traitor" quantity="1"/><measure commodity="goodness" quantity="1"/><measure commodity="hue" quantity="1"/><measure commodity="different" quantity="1"/><measure commodity="color" quantity="1"/><measure commodity="gone" quantity="1"/><measure commodity="Because" quantity="1"/><measure commodity="tangle" quantity="1"/><measure commodity="lost" quantity="1"/><measure commodity="expelled" quantity="1"/><measure commodity="club" quantity="1"/><measure commodity="power" quantity="1"/><measure commodity="dishonor" quantity="1"/><measure commodity="predicament" quantity="1"/><measure commodity="Two" quantity="1"/><measure commodity="Tell" quantity="1"/><measure commodity="Considers" quantity="1"/><measure commodity="duel" quantity="1"/><measure commodity="head" quantity="1"/><measure commodity="ears" quantity="1"/><measure commodity="sacred" quantity="1"/><measure commodity="redeem" quantity="1"/><measure commodity="treat" quantity="1"/><measure commodity="Dedley" quantity="1"/><measure commodity="Manor" quantity="1"/><measure commodity="damn" quantity="1"/><measure commodity="deprived" quantity="1"/><measure commodity="real" quantity="1"/><measure commodity="benefit" quantity="1"/><measure commodity="fun" quantity="1"/><measure commodity="lively" quantity="1"/><measure commodity="hound" quantity="1"/><measure commodity="season" quantity="1"/><measure commodity="nevertheless" quantity="1"/><measure commodity="tin" quantity="1"/><measure commodity="kettle" quantity="1"/><measure commodity="rattling" quantity="1"/><measure commodity="tail" quantity="1"/><measure commodity="Nonsense" quantity="1"/><measure commodity="humbug" quantity="1"/><measure commodity="contracted" quantity="1"/><measure commodity="paid" quantity="1"/><measure commodity="applied" quantity="1"/><measure commodity="Of" quantity="1"/><measure commodity="bankers" quantity="1"/><measure commodity="wonderful" quantity="1"/><measure commodity="Deuced" quantity="1"/><measure commodity="oblige" quantity="1"/><measure commodity="excessively" quantity="1"/><measure commodity="Huzza" quantity="1"/><measure commodity="acknowledgment" quantity="1"/><measure commodity="settle" quantity="1"/><measure commodity="Egad" quantity="1"/><measure commodity="plenty" quantity="1"/><measure commodity="creditors" quantity="1"/><measure commodity="alive" quantity="1"/><measure commodity="making" quantity="1"/><measure commodity="posthumous" quantity="1"/><measure commodity="debtor" quantity="1"/><measure commodity="pseudo" quantity="1"/><measure commodity="principal" quantity="1"/><measure commodity="coward" quantity="1"/><measure commodity="stands" quantity="1"/><measure commodity="shoes" quantity="1"/><measure commodity="Pistols" quantity="1"/><measure commodity="Maurice" quantity="1"/><measure commodity="match" quantity="1"/><measure commodity="bullets" quantity="1"/><measure commodity="backing" quantity="1"/><measure commodity="Appearances" quantity="1"/><measure commodity="deceitful" quantity="1"/><measure commodity="conduct" quantity="1"/><measure commodity="altar" quantity="1"/><measure commodity="next" quantity="1"/><measure commodity="afterwards" quantity="1"/><measure commodity="surrender" quantity="1"/><measure commodity="firing" quantity="1"/><measure commodity="shot" quantity="1"/><measure commodity="mess" quantity="1"/><measure commodity="getting" quantity="1"/><measure commodity="messmates" quantity="1"/><measure commodity="altered" quantity="1"/><measure commodity="steeple" quantity="1"/><measure commodity="chase" quantity="1"/><measure commodity="church" quantity="1"/><measure commodity="joyful" quantity="1"/><measure commodity="Black" quantity="1"/><measure commodity="wax" quantity="1"/><measure commodity="mourning" quantity="1"/><measure commodity="communication" quantity="1"/><measure commodity="doubtless" quantity="1"/><measure commodity="bereavement" quantity="1"/><measure commodity="overtaken" quantity="1"/><measure commodity="Tricks" quantity="1"/><measure commodity="impostor" quantity="1"/><measure commodity="Stay" quantity="1"/><measure commodity="recollect" quantity="1"/><measure commodity="earnestly" quantity="1"/><measure commodity="laughed" quantity="1"/><measure commodity="face" quantity="1"/><measure commodity="Forced" quantity="1"/><measure commodity="Disbelieved" quantity="1"/><measure commodity="frankly" quantity="1"/><measure commodity="Insisted" quantity="1"/><measure commodity="assuming" quantity="1"/><measure commodity="belong" quantity="1"/><measure commodity="ridiculous" quantity="1"/><measure commodity="position" quantity="1"/><measure commodity="almost" quantity="1"/><measure commodity="self" quantity="1"/><measure commodity="defence" quantity="1"/><measure commodity="betray" quantity="1"/><measure commodity="wisest" quantity="1"/><measure commodity="folly" quantity="1"/><measure commodity="usurp" quantity="1"/><measure commodity="Fortunately" quantity="1"/><measure commodity="contemplated" quantity="1"/><measure commodity="sacrilege" quantity="1"/><measure commodity="toward" quantity="1"/><measure commodity="accepted" quantity="1"/><measure commodity="holds" quantity="1"/><measure commodity="possession" quantity="1"/><measure commodity="breath" quantity="1"/><measure commodity="Speak" quantity="1"/><measure commodity="Madam" quantity="1"/><measure commodity="attempt" quantity="1"/><measure commodity="declare" quantity="1"/><measure commodity="throughout" quantity="1"/><measure commodity="concerning" quantity="1"/><measure commodity="blame" quantity="1"/><measure commodity="Goes" quantity="1"/><measure commodity="returns" quantity="1"/><measure commodity="innocent" quantity="1"/><measure commodity="forbade" quantity="1"/><measure commodity="Rascal" quantity="1"/><measure commodity="kiss" quantity="1"/><measure commodity="Minx" quantity="1"/><measure commodity="shoulder" quantity="1"/><measure commodity="Starting" quantity="1"/><measure commodity="learned" quantity="1"/><measure commodity="gained" quantity="1"/><measure commodity="becomes" quantity="1"/><measure commodity="possessed" quantity="1"/><measure commodity="dreams" quantity="1"/><measure commodity="realized" quantity="1"/><measure commodity="running" quantity="1"/><measure commodity="eyes" quantity="1"/><measure commodity="driven" quantity="1"/><measure commodity="basked" quantity="1"/><measure commodity="thanking" quantity="1"/><measure commodity="shone" quantity="1"/><measure commodity="realise" quantity="1"/><measure commodity="spite" quantity="1"/><measure commodity="halves" quantity="1"/><measure commodity="waiting" quantity="1"/><measure commodity="ray" quantity="1"/><measure commodity="paternal" quantity="1"/><measure commodity="single" quantity="1"/><measure commodity="happiness" quantity="1"/><measure commodity="attended" quantity="1"/><measure commodity="audience" quantity="1"/><measure commodity="trust" quantity="1"/><measure commodity="Coming" quantity="1"/><measure commodity="felt" quantity="1"/><measure commodity="fulfilled" quantity="1"/><measure commodity="splendor" quantity="1"/><measure commodity="former" quantity="1"/><measure commodity="days" quantity="1"/><measure commodity="joyously" quantity="1"/><measure commodity="pack" quantity="1"/><measure commodity="hounds" quantity="1"/><measure commodity="cellar" quantity="1"/><measure commodity="dozen" quantity="1"/><measure commodity="spare" quantity="1"/><measure commodity="rooms" quantity="1"/><measure commodity="often" quantity="1"/><measure commodity="warm" quantity="1"/><measure commodity="welcome" quantity="1"/><measure commodity="Curtain" quantity="1"/><measure commodity="falls" quantity="1"/></measureGrp></measureGrp></extent></fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="hughsavage">
+            <persName>Hugh Savage</persName>
+          </person>
+          <person xml:id="agnesclover">
+            <persName>Agnes Clover</persName>
+          </person>
+          <person xml:id="charlesclover">
+            <persName>Charles Clover</persName>
+          </person>
+          <person xml:id="mrclover">
+            <persName>Mr. Clover</persName>
+          </person>
+          <person xml:id="geraldfitzmaurice">
+            <persName>Gerald Fitzmaurice</persName>
+          </person>
+          <person xml:id="lucyclover">
+            <persName>Lucy Clover</persName>
+          </person>
+          <person xml:id="all">
+            <persName>All</persName>
+          </person>
+          <person xml:id="bailiff">
+            <persName>Bailiff</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term type="genreTitle" subtype="am">Comedy</term>
+          <term type="playtype" subtype="am">prose</term>
+          <term type="content" subtype="am">Prose</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change who="#dlina" when="2018-06">data extraction from source</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+
+      <div type="Dramatis_Personae">
+        <head>Cast of the Characters. — [ A Gentleman from Ireland. ]</head>
+        <head> Wallack's, N.Y., December 11 th, 1854 </head>
+        <castList>
+          <castItem>Gerald Fitzmaurice Mr. Brougham.</castItem>
+
+          <castItem>Mr. Clover Mr. Dyott.</castItem>
+
+          <castItem>Hugh Savage Mr. Sotberg.</castItem>
+
+          <castItem>Charles Clover Mr. Bland.</castItem>
+
+          <castItem>Grip Mr. Peters.</castItem>
+
+          <castItem>Gregory Mr. Burke.</castItem>
+
+          <castItem>Agnes Clover Mrs. Hoey.</castItem>
+
+          <castItem>Lucy Clover Mrs. Conover.</castItem>
+        </castList>
+      </div>
+      <div type="preface" n="1">
+        <head>Costume.</head>
+        <p/>
+        <p/>
+      </div>
+        <div type="preface" n="2">
+        <head>STAGE DIRECTIONS.</head>
+        <p/>
+        <p/>
+      </div>
+    </front>
+    <body xml:lang="en">
+      <div type="act" n="1" xml:id="emdram1_act1">
+        <head xml:id="emdram1_act1_head0">ACT I.</head>
+        <div type="scene" xml:id="emdram1_act1_div1">
+          <head xml:id="emdram1_act1_head2">Scene</head>
+          <stage xml:id="emdram1_act1_stage3"/>
+          <stage xml:id="emdram1_act1_stage4"/>
+          <sp who="#mrclover" xml:id="emdram1_act1_sp5">
+            <speaker xml:id="emdram1_act1_speaker6">Clo.</speaker>
+            <stage xml:id="emdram1_act1_stage7"/>
+            <p xml:id="emdram1_act1_p8"/>
+          </sp>
+          <sp who="#agnesclover" xml:id="emdram1_act1_sp9">
+            <speaker xml:id="emdram1_act1_speaker10">Agnes.</speaker>
+            <p xml:id="emdram1_act1_p11"/>
+          </sp>
+          <sp who="#mrclover" xml:id="emdram1_act1_sp12">
+            <speaker xml:id="emdram1_act1_speaker13">Clo.</speaker>
+            <p xml:id="emdram1_act1_p14"/>
+          </sp>
+
+
+          <sp who="#lucyclover" xml:id="emdram1_act1_sp15">
+            <speaker xml:id="emdram1_act1_speaker16">Lucy.</speaker>
+
+            <p xml:id="emdram1_act1_p17"/>
+          </sp>
+
+
+          <sp who="#agnesclover" xml:id="emdram1_act1_sp18">
+            <speaker xml:id="emdram1_act1_speaker19">Agnes.</speaker>
+
+            <p xml:id="emdram1_act1_p20"/>
+          </sp>
+
+
+          <sp who="#mrclover" xml:id="emdram1_act1_sp21">
+            <speaker xml:id="emdram1_act1_speaker22">Clo.</speaker>
+
+            <p xml:id="emdram1_act1_p23"/>
+          </sp>
+
+
+          <sp who="#lucyclover" xml:id="emdram1_act1_sp24">
+            <speaker xml:id="emdram1_act1_speaker25">Lucy.</speaker>
+
+            <p xml:id="emdram1_act1_p26"/>
+          </sp>
+
+
+          <sp who="#mrclover" xml:id="emdram1_act1_sp27">
+            <speaker xml:id="emdram1_act1_speaker28">Clo.</speaker>
+
+            <p xml:id="emdram1_act1_p29"/>
+          </sp>
+
+
+          <sp who="#agnesclover" xml:id="emdram1_act1_sp30">
+            <speaker xml:id="emdram1_act1_speaker31">Agnes.</speaker>
+
+            <p xml:id="emdram1_act1_p32"/>
+          </sp>
+
+
+          <sp who="#mrclover" xml:id="emdram1_act1_sp33">
+            <speaker xml:id="emdram1_act1_speaker34">Clo.</speaker>
+
+            <p xml:id="emdram1_act1_p35"/>
+          </sp>
+
+          <stage xml:id="emdram1_act1_stage36"/>
+
+          <sp who="#lucyclover" xml:id="emdram1_act1_sp37">
+            <speaker xml:id="emdram1_act1_speaker38">Lucy.</speaker>
+
+            <p xml:id="emdram1_act1_p39"/>
+          </sp>
+
+
+          <sp who="#mrclover" xml:id="emdram1_act1_sp40">
+            <speaker xml:id="emdram1_act1_speaker41">Clo.</speaker>
+
+            <p xml:id="emdram1_act1_p42"/>
+          </sp>
+
+
+          <sp who="#lucyclover" xml:id="emdram1_act1_sp43">
+            <speaker xml:id="emdram1_act1_speaker44">Lucy.</speaker>
+
+            <p xml:id="emdram1_act1_p45"/>
+          </sp>
+
+
+          <sp who="#mrclover" xml:id="emdram1_act1_sp46">
+            <speaker xml:id="emdram1_act1_speaker47">Clo.</speaker>
+
+            <p xml:id="emdram1_act1_p48"/>
+          </sp>
+
+
+          <sp who="#lucyclover" xml:id="emdram1_act1_sp49">
+            <speaker xml:id="emdram1_act1_speaker50">Lucy.</speaker>
+
+            <p xml:id="emdram1_act1_p51"/>
+          </sp>
+
+
+          <sp who="#mrclover" xml:id="emdram1_act1_sp52">
+            <speaker xml:id="emdram1_act1_speaker53">Clo.</speaker>
+
+            <p xml:id="emdram1_act1_p54"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act1_sp55">
+            <stage xml:id="emdram1_act1_stage56"/>
+            <p xml:id="emdram1_act1_p57"/>
+          </sp>
+
+
+          <sp who="#mrclover" xml:id="emdram1_act1_sp58">
+            <speaker xml:id="emdram1_act1_speaker59">Clo.</speaker>
+
+            <p xml:id="emdram1_act1_p60"/>
+          </sp>
+
+
+          <sp who="#lucyclover" xml:id="emdram1_act1_sp61">
+            <speaker xml:id="emdram1_act1_speaker62">Lucy.</speaker>
+
+            <p xml:id="emdram1_act1_p63"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act1_sp64">
+            <stage xml:id="emdram1_act1_stage65"/>
+            <p xml:id="emdram1_act1_p66"/>
+          </sp>
+
+          <stage xml:id="emdram1_act1_stage67"/>
+
+          <sp who="#lucyclover" xml:id="emdram1_act1_sp68">
+            <speaker xml:id="emdram1_act1_speaker69">Lucy.</speaker>
+
+            <p xml:id="emdram1_act1_p70"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act1_sp71">
+            <stage xml:id="emdram1_act1_stage72"/>
+            <p xml:id="emdram1_act1_p73"/>
+          </sp>
+
+
+
+          <sp who="#" xml:id="emdram1_act1_sp74">
+            <stage xml:id="emdram1_act1_stage75"/>
+            <p xml:id="emdram1_act1_p76"/>
+          </sp>
+
+
+          <sp who="#hughsavage" xml:id="emdram1_act1_sp77">
+            <speaker xml:id="emdram1_act1_speaker78">Hugh.</speaker>
+
+            <p xml:id="emdram1_act1_p79"/>
+          </sp>
+
+
+          <sp who="#mrclover" xml:id="emdram1_act1_sp80">
+            <speaker xml:id="emdram1_act1_speaker81">Clo.</speaker>
+
+            <p xml:id="emdram1_act1_p82"/>
+          </sp>
+
+          <stage xml:id="emdram1_act1_stage83"/>
+
+          <sp who="#" xml:id="emdram1_act1_sp84">
+            <stage xml:id="emdram1_act1_stage85"/>
+            <p xml:id="emdram1_act1_p86"/>
+          </sp>
+
+
+          <sp who="#lucyclover" xml:id="emdram1_act1_sp87">
+            <speaker xml:id="emdram1_act1_speaker88">Lucy.</speaker>
+
+            <p xml:id="emdram1_act1_p89"/>
+          </sp>
+
+
+          <sp who="#hughsavage" xml:id="emdram1_act1_sp90">
+            <speaker xml:id="emdram1_act1_speaker91">Hugh.</speaker>
+
+            <p xml:id="emdram1_act1_p92"/>
+          </sp>
+
+
+          <sp who="#lucyclover" xml:id="emdram1_act1_sp93">
+            <speaker xml:id="emdram1_act1_speaker94">Lucy.</speaker>
+
+            <p xml:id="emdram1_act1_p95"/>
+          </sp>
+
+
+          <sp who="#hughsavage" xml:id="emdram1_act1_sp96">
+            <speaker xml:id="emdram1_act1_speaker97">Hugh.</speaker>
+
+            <p xml:id="emdram1_act1_p98"/>
+          </sp>
+
+
+          <sp who="#lucyclover" xml:id="emdram1_act1_sp99">
+            <speaker xml:id="emdram1_act1_speaker100">Lucy.</speaker>
+
+            <p xml:id="emdram1_act1_p101"/>
+          </sp>
+
+
+          <sp who="#hughsavage" xml:id="emdram1_act1_sp102">
+            <speaker xml:id="emdram1_act1_speaker103">Hugh.</speaker>
+
+            <p xml:id="emdram1_act1_p104"/>
+          </sp>
+
+
+          <sp who="#lucyclover" xml:id="emdram1_act1_sp105">
+            <speaker xml:id="emdram1_act1_speaker106">Lucy.</speaker>
+
+            <p xml:id="emdram1_act1_p107"/>
+          </sp>
+
+
+          <sp who="#hughsavage" xml:id="emdram1_act1_sp108">
+            <speaker xml:id="emdram1_act1_speaker109">Hugh.</speaker>
+
+            <p xml:id="emdram1_act1_p110"/>
+          </sp>
+
+
+          <sp who="#lucyclover" xml:id="emdram1_act1_sp111">
+            <speaker xml:id="emdram1_act1_speaker112">Lucy.</speaker>
+
+            <p xml:id="emdram1_act1_p113"/>
+          </sp>
+
+
+          <sp who="#hughsavage" xml:id="emdram1_act1_sp114">
+            <speaker xml:id="emdram1_act1_speaker115">Hugh.</speaker>
+
+            <p xml:id="emdram1_act1_p116"/>
+          </sp>
+
+
+          <sp who="#lucyclover" xml:id="emdram1_act1_sp117">
+            <speaker xml:id="emdram1_act1_speaker118">Lucy.</speaker>
+
+            <p xml:id="emdram1_act1_p119"/>
+          </sp>
+
+
+          <sp who="#hughsavage" xml:id="emdram1_act1_sp120">
+            <speaker xml:id="emdram1_act1_speaker121">Hugh.</speaker>
+
+            <p xml:id="emdram1_act1_p122"/>
+          </sp>
+
+
+          <sp who="#lucyclover" xml:id="emdram1_act1_sp123">
+            <speaker xml:id="emdram1_act1_speaker124">Lucy.</speaker>
+
+            <p xml:id="emdram1_act1_p125"/>
+          </sp>
+
+
+          <sp who="#hughsavage" xml:id="emdram1_act1_sp126">
+            <speaker xml:id="emdram1_act1_speaker127">Hugh.</speaker>
+
+            <p xml:id="emdram1_act1_p128"/>
+          </sp>
+
+          <stage xml:id="emdram1_act1_stage129"/>
+
+
+          <sp who="#" xml:id="emdram1_act1_sp130">
+            <stage xml:id="emdram1_act1_stage131"/>
+            <p xml:id="emdram1_act1_p132"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act1_sp133">
+            <stage xml:id="emdram1_act1_stage134"/>
+            <p xml:id="emdram1_act1_p135"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act1_sp136">
+            <stage xml:id="emdram1_act1_stage137"/>
+            <p xml:id="emdram1_act1_p138"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act1_sp139">
+            <stage xml:id="emdram1_act1_stage140"/>
+            <p xml:id="emdram1_act1_p141"/>
+          </sp>
+
+
+          <sp who="#lucyclover" xml:id="emdram1_act1_sp142">
+            <speaker xml:id="emdram1_act1_speaker143">Lucy.</speaker>
+
+            <p xml:id="emdram1_act1_p144"/>
+          </sp>
+
+
+          <sp who="#agnesclover" xml:id="emdram1_act1_sp145">
+            <speaker xml:id="emdram1_act1_speaker146">Agnes.</speaker>
+
+            <p xml:id="emdram1_act1_p147"/>
+          </sp>
+
+          <stage xml:id="emdram1_act1_stage148"/>
+
+          <sp who="#" xml:id="emdram1_act1_sp149">
+            <stage xml:id="emdram1_act1_stage150"/>
+            <p xml:id="emdram1_act1_p151"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act1_sp152">
+            <stage xml:id="emdram1_act1_stage153"/>
+            <p xml:id="emdram1_act1_p154"/>
+          </sp>
+
+
+          <sp who="#mrclover" xml:id="emdram1_act1_sp155">
+            <speaker xml:id="emdram1_act1_speaker156">Clo.</speaker>
+
+            <p xml:id="emdram1_act1_p157"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act1_sp158">
+            <speaker xml:id="emdram1_act1_speaker159">Fitz.</speaker>
+
+            <p xml:id="emdram1_act1_p160"/>
+          </sp>
+
+
+          <sp who="#mrclover" xml:id="emdram1_act1_sp161">
+            <speaker xml:id="emdram1_act1_speaker162">Clo.</speaker>
+
+            <p xml:id="emdram1_act1_p163"/>
+          </sp>
+
+          <stage xml:id="emdram1_act1_stage164"/>
+
+          <sp who="#" xml:id="emdram1_act1_sp165">
+            <stage xml:id="emdram1_act1_stage166"/>
+            <p xml:id="emdram1_act1_p167"/>
+          </sp>
+
+          <stage xml:id="emdram1_act1_stage168"/>
+
+          <sp who="#mrclover" xml:id="emdram1_act1_sp169">
+            <speaker xml:id="emdram1_act1_speaker170">Clo.</speaker>
+
+            <p xml:id="emdram1_act1_p171"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act1_sp172">
+            <speaker xml:id="emdram1_act1_speaker173">Fitz.</speaker>
+
+            <p xml:id="emdram1_act1_p174"/>
+          </sp>
+
+
+          <sp who="#mrclover" xml:id="emdram1_act1_sp175">
+            <speaker xml:id="emdram1_act1_speaker176">Clo.</speaker>
+
+            <p xml:id="emdram1_act1_p177"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act1_sp178">
+            <speaker xml:id="emdram1_act1_speaker179">Fitz.</speaker>
+
+            <p xml:id="emdram1_act1_p180"/>
+          </sp>
+
+
+          <sp who="#mrclover" xml:id="emdram1_act1_sp181">
+            <speaker xml:id="emdram1_act1_speaker182">Clo.</speaker>
+
+            <p xml:id="emdram1_act1_p183"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act1_sp184">
+            <stage xml:id="emdram1_act1_stage185"/>
+            <p xml:id="emdram1_act1_p186"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act1_sp187">
+            <stage xml:id="emdram1_act1_stage188"/>
+            <p xml:id="emdram1_act1_p189"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act1_sp190">
+            <speaker xml:id="emdram1_act1_speaker191">Fitz.</speaker>
+
+            <p xml:id="emdram1_act1_p192"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act1_sp193">
+            <stage xml:id="emdram1_act1_stage194"/>
+            <p xml:id="emdram1_act1_p195"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act1_sp196">
+            <speaker xml:id="emdram1_act1_speaker197">Fitz.</speaker>
+
+            <p xml:id="emdram1_act1_p198"/>
+          </sp>
+
+
+          <sp who="#mrclover" xml:id="emdram1_act1_sp199">
+            <speaker xml:id="emdram1_act1_speaker200">Clo.</speaker>
+
+            <p xml:id="emdram1_act1_p201"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act1_sp202">
+            <speaker xml:id="emdram1_act1_speaker203">Fitz.</speaker>
+
+            <p xml:id="emdram1_act1_p204"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act1_sp205">
+            <stage xml:id="emdram1_act1_stage206"/>
+            <p xml:id="emdram1_act1_p207"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act1_sp208">
+            <stage xml:id="emdram1_act1_stage209"/>
+            <p xml:id="emdram1_act1_p210"/>
+          </sp>
+
+          <stage xml:id="emdram1_act1_stage211"/>
+
+          <sp who="#" xml:id="emdram1_act1_sp212">
+            <stage xml:id="emdram1_act1_stage213"/>
+            <p xml:id="emdram1_act1_p214"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act1_sp215">
+            <speaker xml:id="emdram1_act1_speaker216">Fitz.</speaker>
+
+            <p xml:id="emdram1_act1_p217"/>
+          </sp>
+
+
+          <sp who="#mrclover" xml:id="emdram1_act1_sp218">
+            <speaker xml:id="emdram1_act1_speaker219">Clo.</speaker>
+
+            <p xml:id="emdram1_act1_p220"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act1_sp221">
+            <speaker xml:id="emdram1_act1_speaker222">Fitz.</speaker>
+
+            <p xml:id="emdram1_act1_p223"/>
+          </sp>
+
+
+          <sp who="#mrclover" xml:id="emdram1_act1_sp224">
+            <speaker xml:id="emdram1_act1_speaker225">Clo.</speaker>
+
+            <p xml:id="emdram1_act1_p226"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act1_sp227">
+            <stage xml:id="emdram1_act1_stage228"/>
+            <p xml:id="emdram1_act1_p229"/>
+          </sp>
+
+
+          <sp who="#mrclover" xml:id="emdram1_act1_sp230">
+            <speaker xml:id="emdram1_act1_speaker231">Clo.</speaker>
+
+            <p xml:id="emdram1_act1_p232"/>
+          </sp>
+
+          <stage xml:id="emdram1_act1_stage233"/>
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act1_sp234">
+            <speaker xml:id="emdram1_act1_speaker235">Fitz.</speaker>
+
+            <p xml:id="emdram1_act1_p236"/>
+          </sp>
+
+
+          <sp who="#mrclover" xml:id="emdram1_act1_sp237">
+            <speaker xml:id="emdram1_act1_speaker238">Clo.</speaker>
+
+            <p xml:id="emdram1_act1_p239"/>
+          </sp>
+
+
+          <sp who="#all" xml:id="emdram1_act1_sp240">
+            <speaker xml:id="emdram1_act1_speaker241">All.</speaker>
+
+            <p xml:id="emdram1_act1_p242"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act1_sp243">
+            <stage xml:id="emdram1_act1_stage244"/>
+            <p xml:id="emdram1_act1_p245"/>
+          </sp>
+
+
+          <sp who="#lucyclover" xml:id="emdram1_act1_sp246">
+            <speaker xml:id="emdram1_act1_speaker247">Lucy.</speaker>
+
+            <p xml:id="emdram1_act1_p248"/>
+          </sp>
+
+          <stage xml:id="emdram1_act1_stage249"/>
+
+          <sp who="#agnesclover" xml:id="emdram1_act1_sp250">
+            <speaker xml:id="emdram1_act1_speaker251">Agnes.</speaker>
+
+            <p xml:id="emdram1_act1_p252"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act1_sp253">
+            <stage xml:id="emdram1_act1_stage254"/>
+            <p xml:id="emdram1_act1_p255"/>
+          </sp>
+
+
+          <sp who="#mrclover" xml:id="emdram1_act1_sp256">
+            <speaker xml:id="emdram1_act1_speaker257">Clo.</speaker>
+
+            <p xml:id="emdram1_act1_p258"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act1_sp259">
+            <speaker xml:id="emdram1_act1_speaker260">Fitz.</speaker>
+
+            <p xml:id="emdram1_act1_p261"/>
+          </sp>
+
+
+
+          <sp who="#mrclover" xml:id="emdram1_act1_sp262">
+            <speaker xml:id="emdram1_act1_speaker263">Clo.</speaker>
+
+            <p xml:id="emdram1_act1_p264"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act1_sp265">
+            <stage xml:id="emdram1_act1_stage266"/>
+            <p xml:id="emdram1_act1_p267"/>
+          </sp>
+
+
+          <sp who="#mrclover" xml:id="emdram1_act1_sp268">
+            <speaker xml:id="emdram1_act1_speaker269">Clo.</speaker>
+
+            <p xml:id="emdram1_act1_p270"/>
+          </sp>
+
+          <stage xml:id="emdram1_act1_stage271"/>
+
+          <sp who="#lucyclover" xml:id="emdram1_act1_sp272">
+            <speaker xml:id="emdram1_act1_speaker273">Lucy.</speaker>
+
+            <p xml:id="emdram1_act1_p274"/>
+          </sp>
+
+
+          <sp who="#agnesclover" xml:id="emdram1_act1_sp275">
+            <speaker xml:id="emdram1_act1_speaker276">Agnes.</speaker>
+
+            <p xml:id="emdram1_act1_p277"/>
+          </sp>
+
+
+          <sp who="#lucyclover" xml:id="emdram1_act1_sp278">
+            <speaker xml:id="emdram1_act1_speaker279">Lucy.</speaker>
+
+            <p xml:id="emdram1_act1_p280"/>
+          </sp>
+
+
+          <sp who="#agnesclover" xml:id="emdram1_act1_sp281">
+            <speaker xml:id="emdram1_act1_speaker282">Agnes.</speaker>
+
+            <p xml:id="emdram1_act1_p283"/>
+          </sp>
+
+
+          <sp who="#lucyclover" xml:id="emdram1_act1_sp284">
+            <speaker xml:id="emdram1_act1_speaker285">Lucy.</speaker>
+
+            <p xml:id="emdram1_act1_p286"/>
+          </sp>
+
+
+          <sp who="#agnesclover" xml:id="emdram1_act1_sp287">
+            <speaker xml:id="emdram1_act1_speaker288">Agnes.</speaker>
+
+            <p xml:id="emdram1_act1_p289"/>
+          </sp>
+
+
+          <sp who="#lucyclover" xml:id="emdram1_act1_sp290">
+            <speaker xml:id="emdram1_act1_speaker291">Lucy.</speaker>
+
+            <p xml:id="emdram1_act1_p292"/>
+          </sp>
+
+
+          <sp who="#agnesclover" xml:id="emdram1_act1_sp293">
+            <speaker xml:id="emdram1_act1_speaker294">Agnes.</speaker>
+
+            <p xml:id="emdram1_act1_p295"/>
+          </sp>
+
+
+          <sp who="#lucyclover" xml:id="emdram1_act1_sp296">
+            <speaker xml:id="emdram1_act1_speaker297">Lucy.</speaker>
+
+            <p xml:id="emdram1_act1_p298"/>
+          </sp>
+
+
+          <sp who="#agnesclover" xml:id="emdram1_act1_sp299">
+            <speaker xml:id="emdram1_act1_speaker300">Agnes.</speaker>
+
+            <p xml:id="emdram1_act1_p301"/>
+          </sp>
+
+
+          <sp who="#lucyclover" xml:id="emdram1_act1_sp302">
+            <speaker xml:id="emdram1_act1_speaker303">Lucy.</speaker>
+
+            <p xml:id="emdram1_act1_p304"/>
+          </sp>
+
+
+          <sp who="#agnesclover" xml:id="emdram1_act1_sp305">
+            <speaker xml:id="emdram1_act1_speaker306">Agnes.</speaker>
+
+            <p xml:id="emdram1_act1_p307"/>
+          </sp>
+
+
+          <sp who="#lucyclover" xml:id="emdram1_act1_sp308">
+            <speaker xml:id="emdram1_act1_speaker309">Lucy.</speaker>
+
+            <p xml:id="emdram1_act1_p310"/>
+          </sp>
+
+
+          <sp who="#agnesclover" xml:id="emdram1_act1_sp311">
+            <speaker xml:id="emdram1_act1_speaker312">Agnes.</speaker>
+
+            <p xml:id="emdram1_act1_p313"/>
+          </sp>
+
+
+          <sp who="#lucyclover" xml:id="emdram1_act1_sp314">
+            <speaker xml:id="emdram1_act1_speaker315">Lucy.</speaker>
+
+            <p xml:id="emdram1_act1_p316"/>
+          </sp>
+
+          <stage xml:id="emdram1_act1_stage317"/>
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act1_sp318">
+            <speaker xml:id="emdram1_act1_speaker319">Fitz.</speaker>
+
+            <p xml:id="emdram1_act1_p320"/>
+          </sp>
+
+
+          <sp who="#lucyclover" xml:id="emdram1_act1_sp321">
+            <speaker xml:id="emdram1_act1_speaker322">Lucy.</speaker>
+
+            <p xml:id="emdram1_act1_p323"/>
+          </sp>
+
+
+          <sp who="#agnesclover" xml:id="emdram1_act1_sp324">
+            <speaker xml:id="emdram1_act1_speaker325">Agnes.</speaker>
+
+            <p xml:id="emdram1_act1_p326"/>
+          </sp>
+
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act1_sp327">
+            <speaker xml:id="emdram1_act1_speaker328">Fitz.</speaker>
+
+            <p xml:id="emdram1_act1_p329"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act1_sp330">
+            <stage xml:id="emdram1_act1_stage331"/>
+            <p xml:id="emdram1_act1_p332"/>
+          </sp>
+
+
+          <sp who="#agnesclover" xml:id="emdram1_act1_sp333">
+            <speaker xml:id="emdram1_act1_speaker334">Agnes.</speaker>
+
+            <p xml:id="emdram1_act1_p335"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act1_sp336">
+            <speaker xml:id="emdram1_act1_speaker337">Fitz.</speaker>
+
+            <p xml:id="emdram1_act1_p338"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act1_sp339">
+            <stage xml:id="emdram1_act1_stage340"/>
+            <p xml:id="emdram1_act1_p341"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act1_sp342">
+            <speaker xml:id="emdram1_act1_speaker343">Fitz.</speaker>
+
+            <p xml:id="emdram1_act1_p344"/>
+          </sp>
+
+
+          <sp who="#lucyclover" xml:id="emdram1_act1_sp345">
+            <speaker xml:id="emdram1_act1_speaker346">Lucy.</speaker>
+
+            <p xml:id="emdram1_act1_p347"/>
+            <stage xml:id="emdram1_act1_stage348"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act1_sp349">
+            <speaker xml:id="emdram1_act1_speaker350">Fitz.</speaker>
+
+            <p xml:id="emdram1_act1_p351"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act1_sp352">
+            <stage xml:id="emdram1_act1_stage353"/>
+            <p xml:id="emdram1_act1_p354"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act1_sp355">
+            <speaker xml:id="emdram1_act1_speaker356">Fitz.</speaker>
+
+            <p xml:id="emdram1_act1_p357"/>
+          </sp>
+
+
+          <sp who="#agnesclover" xml:id="emdram1_act1_sp358">
+            <speaker xml:id="emdram1_act1_speaker359">Agnes.</speaker>
+
+            <p xml:id="emdram1_act1_p360"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act1_sp361">
+            <speaker xml:id="emdram1_act1_speaker362">Fitz.</speaker>
+
+            <p xml:id="emdram1_act1_p363"/>
+          </sp>
+
+
+          <sp who="#agnesclover" xml:id="emdram1_act1_sp364">
+            <speaker xml:id="emdram1_act1_speaker365">Agnes.</speaker>
+
+            <p xml:id="emdram1_act1_p366"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act1_sp367">
+            <speaker xml:id="emdram1_act1_speaker368">Fitz.</speaker>
+
+            <p xml:id="emdram1_act1_p369"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act1_sp370">
+            <stage xml:id="emdram1_act1_stage371"/>
+            <p xml:id="emdram1_act1_p372"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act1_sp373">
+            <speaker xml:id="emdram1_act1_speaker374">Fitz.</speaker>
+
+            <p xml:id="emdram1_act1_p375"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act1_sp376">
+            <stage xml:id="emdram1_act1_stage377"/>
+            <p xml:id="emdram1_act1_p378"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act1_sp379">
+            <speaker xml:id="emdram1_act1_speaker380">Fitz.</speaker>
+
+            <p xml:id="emdram1_act1_p381"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act1_sp382">
+            <stage xml:id="emdram1_act1_stage383"/>
+            <p xml:id="emdram1_act1_p384"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act1_sp385">
+            <speaker xml:id="emdram1_act1_speaker386">Fitz.</speaker>
+
+            <p xml:id="emdram1_act1_p387"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act1_sp388">
+            <stage xml:id="emdram1_act1_stage389"/>
+            <p xml:id="emdram1_act1_p390"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act1_sp391">
+            <speaker xml:id="emdram1_act1_speaker392">Fitz.</speaker>
+
+            <p xml:id="emdram1_act1_p393"/>
+          </sp>
+
+
+          <sp who="#agnesclover" xml:id="emdram1_act1_sp394">
+            <speaker xml:id="emdram1_act1_speaker395">Agnes.</speaker>
+
+            <p xml:id="emdram1_act1_p396"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act1_sp397">
+            <speaker xml:id="emdram1_act1_speaker398">Fitz.</speaker>
+
+            <p xml:id="emdram1_act1_p399"/>
+          </sp>
+
+          <stage xml:id="emdram1_act1_stage400"/>
+
+          <sp who="#agnesclover" xml:id="emdram1_act1_sp401">
+            <speaker xml:id="emdram1_act1_speaker402">Agnes.</speaker>
+
+            <p xml:id="emdram1_act1_p403"/>
+            <stage xml:id="emdram1_act1_stage404"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act1_sp405">
+            <speaker xml:id="emdram1_act1_speaker406">Fitz.</speaker>
+
+            <p xml:id="emdram1_act1_p407"/>
+          </sp>
+
+
+          <sp who="#agnesclover" xml:id="emdram1_act1_sp408">
+            <speaker xml:id="emdram1_act1_speaker409">Agnes.</speaker>
+
+            <p xml:id="emdram1_act1_p410"/>
+            <stage xml:id="emdram1_act1_stage411"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act1_sp412">
+            <stage xml:id="emdram1_act1_stage413"/>
+            <p xml:id="emdram1_act1_p414"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act1_sp415">
+            <stage xml:id="emdram1_act1_stage416"/>
+            <p xml:id="emdram1_act1_p417"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act1_sp418">
+            <speaker xml:id="emdram1_act1_speaker419">Fitz.</speaker>
+
+            <p xml:id="emdram1_act1_p420"/>
+          </sp>
+
+
+          <sp who="#charlesclover" xml:id="emdram1_act1_sp421">
+            <speaker xml:id="emdram1_act1_speaker422">Charles.</speaker>
+
+            <p xml:id="emdram1_act1_p423"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act1_sp424">
+            <speaker xml:id="emdram1_act1_speaker425">Fitz.</speaker>
+
+            <p xml:id="emdram1_act1_p426"/>
+          </sp>
+
+
+
+          <sp who="#" xml:id="emdram1_act1_sp427">
+            <stage xml:id="emdram1_act1_stage428"/>
+            <p xml:id="emdram1_act1_p429"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act1_sp430">
+            <speaker xml:id="emdram1_act1_speaker431">Fitz.</speaker>
+
+            <p xml:id="emdram1_act1_p432"/>
+          </sp>
+
+
+          <sp who="#charlesclover" xml:id="emdram1_act1_sp433">
+            <speaker xml:id="emdram1_act1_speaker434">Charles.</speaker>
+
+            <p xml:id="emdram1_act1_p435"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act1_sp436">
+            <speaker xml:id="emdram1_act1_speaker437">Fitz.</speaker>
+
+            <p xml:id="emdram1_act1_p438"/>
+          </sp>
+
+
+          <sp who="#charlesclover" xml:id="emdram1_act1_sp439">
+            <speaker xml:id="emdram1_act1_speaker440">Charles.</speaker>
+
+            <p xml:id="emdram1_act1_p441"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act1_sp442">
+            <speaker xml:id="emdram1_act1_speaker443">Fitz.</speaker>
+
+            <p xml:id="emdram1_act1_p444"/>
+          </sp>
+
+
+          <sp who="#charlesclover" xml:id="emdram1_act1_sp445">
+            <speaker xml:id="emdram1_act1_speaker446">Charles.</speaker>
+
+            <p xml:id="emdram1_act1_p447"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act1_sp448">
+            <stage xml:id="emdram1_act1_stage449"/>
+            <p xml:id="emdram1_act1_p450"/>
+          </sp>
+
+
+          <sp who="#charlesclover" xml:id="emdram1_act1_sp451">
+            <speaker xml:id="emdram1_act1_speaker452">Charles.</speaker>
+
+            <p xml:id="emdram1_act1_p453"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act1_sp454">
+            <speaker xml:id="emdram1_act1_speaker455">Fitz.</speaker>
+
+            <p xml:id="emdram1_act1_p456"/>
+          </sp>
+
+
+          <sp who="#charlesclover" xml:id="emdram1_act1_sp457">
+            <speaker xml:id="emdram1_act1_speaker458">Charles.</speaker>
+
+            <p xml:id="emdram1_act1_p459"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act1_sp460">
+            <speaker xml:id="emdram1_act1_speaker461">Fitz.</speaker>
+
+            <p xml:id="emdram1_act1_p462"/>
+          </sp>
+
+          <stage xml:id="emdram1_act1_stage463"/>
+
+          <sp who="#lucyclover" xml:id="emdram1_act1_sp464">
+            <speaker xml:id="emdram1_act1_speaker465">Lucy.</speaker>
+
+            <p xml:id="emdram1_act1_p466"/>
+          </sp>
+
+
+          <sp who="#charlesclover" xml:id="emdram1_act1_sp467">
+            <speaker xml:id="emdram1_act1_speaker468">Charles.</speaker>
+
+            <p xml:id="emdram1_act1_p469"/>
+          </sp>
+
+
+          <sp who="#lucyclover" xml:id="emdram1_act1_sp470">
+            <speaker xml:id="emdram1_act1_speaker471">Lucy.</speaker>
+
+            <p xml:id="emdram1_act1_p472"/>
+          </sp>
+
+
+          <sp who="#charlesclover" xml:id="emdram1_act1_sp473">
+            <speaker xml:id="emdram1_act1_speaker474">Charles.</speaker>
+
+            <p xml:id="emdram1_act1_p475"/>
+          </sp>
+
+
+          <sp who="#lucyclover" xml:id="emdram1_act1_sp476">
+            <speaker xml:id="emdram1_act1_speaker477">Lucy.</speaker>
+
+            <p xml:id="emdram1_act1_p478"/>
+          </sp>
+
+
+          <sp who="#charlesclover" xml:id="emdram1_act1_sp479">
+            <speaker xml:id="emdram1_act1_speaker480">Charles.</speaker>
+
+            <p xml:id="emdram1_act1_p481"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act1_sp482">
+            <stage xml:id="emdram1_act1_stage483"/>
+            <p xml:id="emdram1_act1_p484"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act1_sp485">
+            <speaker xml:id="emdram1_act1_speaker486">Fitz.</speaker>
+
+            <p xml:id="emdram1_act1_p487"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act1_sp488">
+            <stage xml:id="emdram1_act1_stage489"/>
+            <p xml:id="emdram1_act1_p490"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act1_sp491">
+            <stage xml:id="emdram1_act1_stage492"/>
+            <p xml:id="emdram1_act1_p493"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act1_sp494">
+            <stage xml:id="emdram1_act1_stage495"/>
+            <p xml:id="emdram1_act1_p496"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act1_sp497">
+            <stage xml:id="emdram1_act1_stage498"/>
+            <p xml:id="emdram1_act1_p499"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act1_sp500">
+            <speaker xml:id="emdram1_act1_speaker501">Fitz.</speaker>
+
+            <p xml:id="emdram1_act1_p502"/>
+          </sp>
+
+
+          <sp who="#charlesclover" xml:id="emdram1_act1_sp503">
+            <speaker xml:id="emdram1_act1_speaker504">Charles.</speaker>
+
+            <p xml:id="emdram1_act1_p505"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act1_sp506">
+            <speaker xml:id="emdram1_act1_speaker507">Fitz.</speaker>
+
+            <p xml:id="emdram1_act1_p508"/>
+          </sp>
+
+
+
+          <sp who="#charlesclover" xml:id="emdram1_act1_sp509">
+            <speaker xml:id="emdram1_act1_speaker510">Charles.</speaker>
+
+            <p xml:id="emdram1_act1_p511"/>
+          </sp>
+
+          <stage xml:id="emdram1_act1_stage512"/>
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act1_sp513">
+            <speaker xml:id="emdram1_act1_speaker514">Fitz.</speaker>
+
+            <p xml:id="emdram1_act1_p515"/>
+          </sp>
+
+          <stage xml:id="emdram1_act1_stage516"/>
+
+          <sp who="#bailiff" xml:id="emdram1_act1_sp517">
+            <speaker xml:id="emdram1_act1_speaker518">Bail.</speaker>
+
+            <p xml:id="emdram1_act1_p519"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act1_sp520">
+            <speaker xml:id="emdram1_act1_speaker521">Fitz.</speaker>
+
+            <p xml:id="emdram1_act1_p522"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act1_sp523">
+            <stage xml:id="emdram1_act1_stage524"/>
+            <p xml:id="emdram1_act1_p525"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act1_sp526">
+            <stage xml:id="emdram1_act1_stage527"/>
+            <p xml:id="emdram1_act1_p528"/>
+          </sp>
+
+
+          <sp who="#bailiff" xml:id="emdram1_act1_sp529">
+            <speaker xml:id="emdram1_act1_speaker530">Bail.</speaker>
+
+            <p xml:id="emdram1_act1_p531"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act1_sp532">
+            <stage xml:id="emdram1_act1_stage533"/>
+            <p xml:id="emdram1_act1_p534"/>
+          </sp>
+
+
+          <sp who="#bailiff" xml:id="emdram1_act1_sp535">
+            <speaker xml:id="emdram1_act1_speaker536">Bail.</speaker>
+
+            <p xml:id="emdram1_act1_p537"/>
+          </sp>
+
+          <stage xml:id="emdram1_act1_stage538"/>
+
+          <sp who="#" xml:id="emdram1_act1_sp539">
+            <stage xml:id="emdram1_act1_stage540"/>
+            <p xml:id="emdram1_act1_p541"/>
+          </sp>
+
+
+          <sp who="#bailiff" xml:id="emdram1_act1_sp542">
+            <speaker xml:id="emdram1_act1_speaker543">Bail.</speaker>
+
+            <p xml:id="emdram1_act1_p544"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act1_sp545">
+            <speaker xml:id="emdram1_act1_speaker546">Fitz.</speaker>
+
+            <p xml:id="emdram1_act1_p547"/>
+          </sp>
+
+
+          <sp who="#bailiff" xml:id="emdram1_act1_sp548">
+            <speaker xml:id="emdram1_act1_speaker549">Bail.</speaker>
+
+            <p xml:id="emdram1_act1_p550"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act1_sp551">
+            <stage xml:id="emdram1_act1_stage552"/>
+            <p xml:id="emdram1_act1_p553"/>
+          </sp>
+
+          <stage xml:id="emdram1_act1_stage554"/>
+
+          <sp who="#mrclover" xml:id="emdram1_act1_sp555">
+            <speaker xml:id="emdram1_act1_speaker556">Clo.</speaker>
+
+            <p xml:id="emdram1_act1_p557"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act1_sp558">
+            <stage xml:id="emdram1_act1_stage559"/>
+            <p xml:id="emdram1_act1_p560"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act1_sp561">
+            <stage xml:id="emdram1_act1_stage562"/>
+            <p xml:id="emdram1_act1_p563"/>
+          </sp>
+
+
+          <sp who="#mrclover" xml:id="emdram1_act1_sp564">
+            <speaker xml:id="emdram1_act1_speaker565">Clo.</speaker>
+
+            <p xml:id="emdram1_act1_p566"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act1_sp567">
+            <speaker xml:id="emdram1_act1_speaker568">Fitz.</speaker>
+
+            <p xml:id="emdram1_act1_p569"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act1_sp570">
+            <stage xml:id="emdram1_act1_stage571"/>
+            <p xml:id="emdram1_act1_p572"/>
+          </sp>
+
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act1_sp573">
+            <speaker xml:id="emdram1_act1_speaker574">Fitz.</speaker>
+
+            <p xml:id="emdram1_act1_p575"/>
+            <stage xml:id="emdram1_act1_stage576"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act1_sp577">
+            <stage xml:id="emdram1_act1_stage578"/>
+            <p xml:id="emdram1_act1_p579"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act1_sp580">
+            <speaker xml:id="emdram1_act1_speaker581">Fitz.</speaker>
+
+            <p xml:id="emdram1_act1_p582"/>
+          </sp>
+
+
+          <sp who="#mrclover" xml:id="emdram1_act1_sp583">
+            <speaker xml:id="emdram1_act1_speaker584">Clo.</speaker>
+
+            <p xml:id="emdram1_act1_p585"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act1_sp586">
+            <speaker xml:id="emdram1_act1_speaker587">Fitz.</speaker>
+
+            <p xml:id="emdram1_act1_p588"/>
+          </sp>
+
+
+          <sp who="#mrclover" xml:id="emdram1_act1_sp589">
+            <speaker xml:id="emdram1_act1_speaker590">Clo.</speaker>
+
+            <p xml:id="emdram1_act1_p591"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act1_sp592">
+            <speaker xml:id="emdram1_act1_speaker593">Fitz.</speaker>
+
+            <p xml:id="emdram1_act1_p594"/>
+          </sp>
+
+
+          <sp who="#mrclover" xml:id="emdram1_act1_sp595">
+            <speaker xml:id="emdram1_act1_speaker596">Clo.</speaker>
+
+            <p xml:id="emdram1_act1_p597"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act1_sp598">
+            <speaker xml:id="emdram1_act1_speaker599">Fitz.</speaker>
+
+            <p xml:id="emdram1_act1_p600"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act1_sp601">
+            <stage xml:id="emdram1_act1_stage602"/>
+            <p xml:id="emdram1_act1_p603"/>
+          </sp>
+
+          <stage xml:id="emdram1_act1_stage604"/>
+
+          <sp who="#" xml:id="emdram1_act1_sp605">
+            <stage xml:id="emdram1_act1_stage606"/>
+            <p xml:id="emdram1_act1_p607"/>
+          </sp>
+
+
+          <sp who="#mrclover" xml:id="emdram1_act1_sp608">
+            <speaker xml:id="emdram1_act1_speaker609">Clo.</speaker>
+
+            <p xml:id="emdram1_act1_p610"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act1_sp611">
+            <speaker xml:id="emdram1_act1_speaker612">Fitz.</speaker>
+
+            <p xml:id="emdram1_act1_p613"/>
+          </sp>
+
+
+          <sp who="#mrclover" xml:id="emdram1_act1_sp614">
+            <speaker xml:id="emdram1_act1_speaker615">Clo.</speaker>
+
+            <p xml:id="emdram1_act1_p616"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act1_sp617">
+            <stage xml:id="emdram1_act1_stage618"/>
+            <p xml:id="emdram1_act1_p619"/>
+          </sp>
+
+
+          <sp who="#mrclover" xml:id="emdram1_act1_sp620">
+            <speaker xml:id="emdram1_act1_speaker621">Clo.</speaker>
+
+            <p xml:id="emdram1_act1_p622"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act1_sp623">
+            <speaker xml:id="emdram1_act1_speaker624">Fitz.</speaker>
+
+            <p xml:id="emdram1_act1_p625"/>
+          </sp>
+
+
+          <sp who="#mrclover" xml:id="emdram1_act1_sp626">
+            <speaker xml:id="emdram1_act1_speaker627">Clo.</speaker>
+
+            <p xml:id="emdram1_act1_p628"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act1_sp629">
+            <stage xml:id="emdram1_act1_stage630"/>
+            <p xml:id="emdram1_act1_p631"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act1_sp632">
+            <stage xml:id="emdram1_act1_stage633"/>
+            <p xml:id="emdram1_act1_p634"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act1_sp635">
+            <stage xml:id="emdram1_act1_stage636"/>
+            <p xml:id="emdram1_act1_p637"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act1_sp638">
+            <stage xml:id="emdram1_act1_stage639"/>
+            <p xml:id="emdram1_act1_p640"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act1_sp641">
+            <stage xml:id="emdram1_act1_stage642"/>
+            <p xml:id="emdram1_act1_p643"/>
+          </sp>
+
+
+          <stage xml:id="emdram1_act1_stage644"/>
+
+          <sp who="#" xml:id="emdram1_act1_sp645">
+            <stage xml:id="emdram1_act1_stage646"/>
+            <p xml:id="emdram1_act1_p647"/>
+          </sp>
+
+          <stage xml:id="emdram1_act1_stage648"/>
+
+          <sp who="#" xml:id="emdram1_act1_sp649">
+            <stage xml:id="emdram1_act1_stage650"/>
+            <p xml:id="emdram1_act1_p651"/>
+          </sp>
+
+          <stage xml:id="emdram1_act1_stage652"/>
+        </div>
+      </div>
+      <div type="act" n="1" xml:id="emdram1_act2">
+        <head xml:id="emdram1_act2_head0"> ACT II. </head>
+        <div type="scene" xml:id="emdram1_act2_div1">
+          <head xml:id="emdram1_act2_head2"> Scene </head>
+          <stage xml:id="emdram1_act2_stage3"/>
+          <stage xml:id="emdram1_act2_stage4"/>
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act2_sp5">
+            <speaker xml:id="emdram1_act2_speaker6">Fitz.</speaker>
+
+            <p xml:id="emdram1_act2_p7"/>
+          </sp>
+
+
+          <sp who="#agnesclover" xml:id="emdram1_act2_sp8">
+            <speaker xml:id="emdram1_act2_speaker9">Agnes.</speaker>
+
+            <p xml:id="emdram1_act2_p10"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act2_sp11">
+            <speaker xml:id="emdram1_act2_speaker12">Fitz.</speaker>
+
+            <p xml:id="emdram1_act2_p13"/>
+          </sp>
+
+
+          <sp who="#agnesclover" xml:id="emdram1_act2_sp14">
+            <speaker xml:id="emdram1_act2_speaker15">Agnes.</speaker>
+
+            <p xml:id="emdram1_act2_p16"/>
+          </sp>
+
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act2_sp17">
+            <speaker xml:id="emdram1_act2_speaker18">Fitz.</speaker>
+
+            <p xml:id="emdram1_act2_p19"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act2_sp20">
+            <stage xml:id="emdram1_act2_stage21"/>
+            <p xml:id="emdram1_act2_p22"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act2_sp23">
+            <speaker xml:id="emdram1_act2_speaker24">Fitz.</speaker>
+
+            <p xml:id="emdram1_act2_p25"/>
+          </sp>
+
+
+          <sp who="#agnesclover" xml:id="emdram1_act2_sp26">
+            <speaker xml:id="emdram1_act2_speaker27">Agnes.</speaker>
+
+            <p xml:id="emdram1_act2_p28"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act2_sp29">
+            <speaker xml:id="emdram1_act2_speaker30">Fitz.</speaker>
+
+            <p xml:id="emdram1_act2_p31"/>
+          </sp>
+
+
+          <sp who="#agnesclover" xml:id="emdram1_act2_sp32">
+            <speaker xml:id="emdram1_act2_speaker33">Agnes.</speaker>
+
+            <p xml:id="emdram1_act2_p34"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act2_sp35">
+            <speaker xml:id="emdram1_act2_speaker36">Fitz.</speaker>
+
+            <p xml:id="emdram1_act2_p37"/>
+          </sp>
+
+
+          <sp who="#agnesclover" xml:id="emdram1_act2_sp38">
+            <speaker xml:id="emdram1_act2_speaker39">Agnes.</speaker>
+
+            <p xml:id="emdram1_act2_p40"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act2_sp41">
+            <speaker xml:id="emdram1_act2_speaker42">Fitz.</speaker>
+
+            <p xml:id="emdram1_act2_p43"/>
+          </sp>
+
+
+          <sp who="#agnesclover" xml:id="emdram1_act2_sp44">
+            <speaker xml:id="emdram1_act2_speaker45">Agnes.</speaker>
+
+            <p xml:id="emdram1_act2_p46"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act2_sp47">
+            <speaker xml:id="emdram1_act2_speaker48">Fitz.</speaker>
+
+            <p xml:id="emdram1_act2_p49"/>
+          </sp>
+
+
+          <sp who="#agnesclover" xml:id="emdram1_act2_sp50">
+            <speaker xml:id="emdram1_act2_speaker51">Agnes.</speaker>
+
+            <p xml:id="emdram1_act2_p52"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act2_sp53">
+            <speaker xml:id="emdram1_act2_speaker54">Fitz.</speaker>
+
+            <p xml:id="emdram1_act2_p55"/>
+          </sp>
+
+
+          <sp who="#agnesclover" xml:id="emdram1_act2_sp56">
+            <speaker xml:id="emdram1_act2_speaker57">Agnes.</speaker>
+
+            <p xml:id="emdram1_act2_p58"/>
+            <stage xml:id="emdram1_act2_stage59"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act2_sp60">
+            <stage xml:id="emdram1_act2_stage61"/>
+            <p xml:id="emdram1_act2_p62"/>
+          </sp>
+
+          <stage xml:id="emdram1_act2_stage63"/>
+
+          <sp who="#hughsavage" xml:id="emdram1_act2_sp64">
+            <speaker xml:id="emdram1_act2_speaker65">Hugh.</speaker>
+
+            <p xml:id="emdram1_act2_p66"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act2_sp67">
+            <stage xml:id="emdram1_act2_stage68"/>
+            <p xml:id="emdram1_act2_p69"/>
+          </sp>
+
+
+          <sp who="#hughsavage" xml:id="emdram1_act2_sp70">
+            <speaker xml:id="emdram1_act2_speaker71">Hugh.</speaker>
+
+            <p xml:id="emdram1_act2_p72"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act2_sp73">
+            <speaker xml:id="emdram1_act2_speaker74">Fitz.</speaker>
+
+            <p xml:id="emdram1_act2_p75"/>
+          </sp>
+
+
+          <sp who="#hughsavage" xml:id="emdram1_act2_sp76">
+            <speaker xml:id="emdram1_act2_speaker77">Hugh.</speaker>
+
+            <p xml:id="emdram1_act2_p78"/>
+          </sp>
+
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act2_sp79">
+            <speaker xml:id="emdram1_act2_speaker80">Fitz.</speaker>
+
+            <p xml:id="emdram1_act2_p81"/>
+          </sp>
+
+
+          <sp who="#hughsavage" xml:id="emdram1_act2_sp82">
+            <speaker xml:id="emdram1_act2_speaker83">Hugh.</speaker>
+
+            <p xml:id="emdram1_act2_p84"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act2_sp85">
+            <speaker xml:id="emdram1_act2_speaker86">Fitz.</speaker>
+
+            <p xml:id="emdram1_act2_p87"/>
+          </sp>
+
+          <stage xml:id="emdram1_act2_stage88"/>
+
+          <sp who="#hughsavage" xml:id="emdram1_act2_sp89">
+            <speaker xml:id="emdram1_act2_speaker90">Hugh.</speaker>
+
+            <p xml:id="emdram1_act2_p91"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act2_sp92">
+            <speaker xml:id="emdram1_act2_speaker93">Fitz.</speaker>
+
+            <p xml:id="emdram1_act2_p94"/>
+          </sp>
+
+
+          <sp who="#hughsavage" xml:id="emdram1_act2_sp95">
+            <speaker xml:id="emdram1_act2_speaker96">Hugh.</speaker>
+
+            <p xml:id="emdram1_act2_p97"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act2_sp98">
+            <speaker xml:id="emdram1_act2_speaker99">Fitz.</speaker>
+
+            <p xml:id="emdram1_act2_p100"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act2_sp101">
+            <stage xml:id="emdram1_act2_stage102"/>
+            <p xml:id="emdram1_act2_p103"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act2_sp104">
+            <stage xml:id="emdram1_act2_stage105"/>
+            <p xml:id="emdram1_act2_p106"/>
+          </sp>
+
+
+          <sp who="#hughsavage" xml:id="emdram1_act2_sp107">
+            <speaker xml:id="emdram1_act2_speaker108">Hugh.</speaker>
+
+            <p xml:id="emdram1_act2_p109"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act2_sp110">
+            <speaker xml:id="emdram1_act2_speaker111">Fitz.</speaker>
+
+            <p xml:id="emdram1_act2_p112"/>
+          </sp>
+
+
+          <sp who="#hughsavage" xml:id="emdram1_act2_sp113">
+            <speaker xml:id="emdram1_act2_speaker114">Hugh.</speaker>
+
+            <p xml:id="emdram1_act2_p115"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act2_sp116">
+            <speaker xml:id="emdram1_act2_speaker117">Fitz.</speaker>
+
+            <p xml:id="emdram1_act2_p118"/>
+          </sp>
+
+
+          <sp who="#hughsavage" xml:id="emdram1_act2_sp119">
+            <speaker xml:id="emdram1_act2_speaker120">Hugh.</speaker>
+
+            <p xml:id="emdram1_act2_p121"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act2_sp122">
+            <stage xml:id="emdram1_act2_stage123"/>
+            <p xml:id="emdram1_act2_p124"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act2_sp125">
+            <stage xml:id="emdram1_act2_stage126"/>
+            <p xml:id="emdram1_act2_p127"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act2_sp128">
+            <speaker xml:id="emdram1_act2_speaker129">Fitz.</speaker>
+
+            <p xml:id="emdram1_act2_p130"/>
+          </sp>
+
+
+          <sp who="#hughsavage" xml:id="emdram1_act2_sp131">
+            <speaker xml:id="emdram1_act2_speaker132">Hugh.</speaker>
+
+            <p xml:id="emdram1_act2_p133"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act2_sp134">
+            <speaker xml:id="emdram1_act2_speaker135">Fitz.</speaker>
+
+            <p xml:id="emdram1_act2_p136"/>
+          </sp>
+
+
+          <sp who="#hughsavage" xml:id="emdram1_act2_sp137">
+            <speaker xml:id="emdram1_act2_speaker138">Hugh.</speaker>
+
+            <p xml:id="emdram1_act2_p139"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act2_sp140">
+            <speaker xml:id="emdram1_act2_speaker141">Fitz.</speaker>
+
+            <p xml:id="emdram1_act2_p142"/>
+          </sp>
+
+
+          <sp who="#hughsavage" xml:id="emdram1_act2_sp143">
+            <speaker xml:id="emdram1_act2_speaker144">Hugh.</speaker>
+
+            <p xml:id="emdram1_act2_p145"/>
+            <stage xml:id="emdram1_act2_stage146"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act2_sp147">
+            <speaker xml:id="emdram1_act2_speaker148">Fitz.</speaker>
+
+            <p xml:id="emdram1_act2_p149"/>
+          </sp>
+
+
+          <stage xml:id="emdram1_act2_stage150"/>
+
+          <sp who="#" xml:id="emdram1_act2_sp151">
+            <stage xml:id="emdram1_act2_stage152"/>
+            <p xml:id="emdram1_act2_p153"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act2_sp154">
+            <speaker xml:id="emdram1_act2_speaker155">Fitz.</speaker>
+
+            <p xml:id="emdram1_act2_p156"/>
+          </sp>
+
+
+          <sp who="#lucyclover" xml:id="emdram1_act2_sp157">
+            <speaker xml:id="emdram1_act2_speaker158">Lucy.</speaker>
+
+            <p xml:id="emdram1_act2_p159"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act2_sp160">
+            <speaker xml:id="emdram1_act2_speaker161">Fitz.</speaker>
+
+            <p xml:id="emdram1_act2_p162"/>
+          </sp>
+
+
+          <sp who="#lucyclover" xml:id="emdram1_act2_sp163">
+            <speaker xml:id="emdram1_act2_speaker164">Lucy.</speaker>
+
+            <p xml:id="emdram1_act2_p165"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act2_sp166">
+            <speaker xml:id="emdram1_act2_speaker167">Fitz.</speaker>
+
+            <p xml:id="emdram1_act2_p168"/>
+          </sp>
+
+
+          <sp who="#lucyclover" xml:id="emdram1_act2_sp169">
+            <speaker xml:id="emdram1_act2_speaker170">Lucy.</speaker>
+
+            <p xml:id="emdram1_act2_p171"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act2_sp172">
+            <speaker xml:id="emdram1_act2_speaker173">Fitz.</speaker>
+
+            <p xml:id="emdram1_act2_p174"/>
+          </sp>
+
+
+          <sp who="#lucyclover" xml:id="emdram1_act2_sp175">
+            <speaker xml:id="emdram1_act2_speaker176">Lucy.</speaker>
+
+            <p xml:id="emdram1_act2_p177"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act2_sp178">
+            <speaker xml:id="emdram1_act2_speaker179">Fitz.</speaker>
+
+            <p xml:id="emdram1_act2_p180"/>
+          </sp>
+
+
+          <sp who="#lucyclover" xml:id="emdram1_act2_sp181">
+            <speaker xml:id="emdram1_act2_speaker182">Lucy.</speaker>
+
+            <p xml:id="emdram1_act2_p183"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act2_sp184">
+            <speaker xml:id="emdram1_act2_speaker185">Fitz.</speaker>
+
+            <p xml:id="emdram1_act2_p186"/>
+          </sp>
+
+
+          <sp who="#lucyclover" xml:id="emdram1_act2_sp187">
+            <speaker xml:id="emdram1_act2_speaker188">Lucy.</speaker>
+
+            <p xml:id="emdram1_act2_p189"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act2_sp190">
+            <speaker xml:id="emdram1_act2_speaker191">Fitz.</speaker>
+
+            <p xml:id="emdram1_act2_p192"/>
+            <stage xml:id="emdram1_act2_stage193"/>
+          </sp>
+
+
+          <sp who="#lucyclover" xml:id="emdram1_act2_sp194">
+            <speaker xml:id="emdram1_act2_speaker195">Lucy.</speaker>
+
+            <p xml:id="emdram1_act2_p196"/>
+            <stage xml:id="emdram1_act2_stage197"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act2_sp198">
+            <speaker xml:id="emdram1_act2_speaker199">Fitz.</speaker>
+
+            <p xml:id="emdram1_act2_p200"/>
+          </sp>
+
+          <stage xml:id="emdram1_act2_stage201"/>
+
+          <sp who="#mrclover" xml:id="emdram1_act2_sp202">
+            <speaker xml:id="emdram1_act2_speaker203">Clo.</speaker>
+
+            <p xml:id="emdram1_act2_p204"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act2_sp205">
+            <stage xml:id="emdram1_act2_stage206"/>
+            <p xml:id="emdram1_act2_p207"/>
+          </sp>
+
+
+          <sp who="#mrclover" xml:id="emdram1_act2_sp208">
+            <speaker xml:id="emdram1_act2_speaker209">Clo.</speaker>
+
+            <p xml:id="emdram1_act2_p210"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act2_sp211">
+            <speaker xml:id="emdram1_act2_speaker212">Fitz.</speaker>
+
+            <p xml:id="emdram1_act2_p213"/>
+          </sp>
+
+
+          <sp who="#mrclover" xml:id="emdram1_act2_sp214">
+            <speaker xml:id="emdram1_act2_speaker215">Clo.</speaker>
+
+            <p xml:id="emdram1_act2_p216"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act2_sp217">
+            <speaker xml:id="emdram1_act2_speaker218">Fitz.</speaker>
+
+            <p xml:id="emdram1_act2_p219"/>
+          </sp>
+
+
+
+          <sp who="#mrclover" xml:id="emdram1_act2_sp220">
+            <speaker xml:id="emdram1_act2_speaker221">Clo.</speaker>
+
+            <p xml:id="emdram1_act2_p222"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act2_sp223">
+            <speaker xml:id="emdram1_act2_speaker224">Fitz.</speaker>
+
+            <p xml:id="emdram1_act2_p225"/>
+          </sp>
+
+
+          <sp who="#mrclover" xml:id="emdram1_act2_sp226">
+            <speaker xml:id="emdram1_act2_speaker227">Clo.</speaker>
+
+            <p xml:id="emdram1_act2_p228"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act2_sp229">
+            <speaker xml:id="emdram1_act2_speaker230">Fitz.</speaker>
+
+            <p xml:id="emdram1_act2_p231"/>
+          </sp>
+
+
+          <sp who="#mrclover" xml:id="emdram1_act2_sp232">
+            <speaker xml:id="emdram1_act2_speaker233">Clo.</speaker>
+
+            <p xml:id="emdram1_act2_p234"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act2_sp235">
+            <speaker xml:id="emdram1_act2_speaker236">Fitz.</speaker>
+
+            <p xml:id="emdram1_act2_p237"/>
+          </sp>
+
+
+          <sp who="#mrclover" xml:id="emdram1_act2_sp238">
+            <speaker xml:id="emdram1_act2_speaker239">Clo.</speaker>
+
+            <p xml:id="emdram1_act2_p240"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act2_sp241">
+            <stage xml:id="emdram1_act2_stage242"/>
+            <p xml:id="emdram1_act2_p243"/>
+          </sp>
+
+          <stage xml:id="emdram1_act2_stage244"/>
+
+          <sp who="#hughsavage" xml:id="emdram1_act2_sp245">
+            <speaker xml:id="emdram1_act2_speaker246">Hugh.</speaker>
+
+            <p xml:id="emdram1_act2_p247"/>
+          </sp>
+
+          <stage xml:id="emdram1_act2_stage248"/>
+
+          <sp who="#" xml:id="emdram1_act2_sp249">
+            <stage xml:id="emdram1_act2_stage250"/>
+            <p xml:id="emdram1_act2_p251"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act2_sp252">
+            <stage xml:id="emdram1_act2_stage253"/>
+            <p xml:id="emdram1_act2_p254"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act2_sp255">
+            <stage xml:id="emdram1_act2_stage256"/>
+            <p xml:id="emdram1_act2_p257"/>
+          </sp>
+
+
+          <sp who="#hughsavage" xml:id="emdram1_act2_sp258">
+            <speaker xml:id="emdram1_act2_speaker259">Hugh.</speaker>
+
+            <p xml:id="emdram1_act2_p260"/>
+          </sp>
+
+
+          <sp who="#mrclover" xml:id="emdram1_act2_sp261">
+            <speaker xml:id="emdram1_act2_speaker262">Clo.</speaker>
+
+            <p xml:id="emdram1_act2_p263"/>
+          </sp>
+
+
+          <sp who="#hughsavage" xml:id="emdram1_act2_sp264">
+            <speaker xml:id="emdram1_act2_speaker265">Hugh.</speaker>
+
+            <p xml:id="emdram1_act2_p266"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act2_sp267">
+            <speaker xml:id="emdram1_act2_speaker268">Fitz.</speaker>
+
+            <p xml:id="emdram1_act2_p269"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act2_sp270">
+            <stage xml:id="emdram1_act2_stage271"/>
+            <p xml:id="emdram1_act2_p272"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act2_sp273">
+            <speaker xml:id="emdram1_act2_speaker274">Fitz.</speaker>
+
+            <p xml:id="emdram1_act2_p275"/>
+          </sp>
+
+
+          <sp who="#hughsavage" xml:id="emdram1_act2_sp276">
+            <speaker xml:id="emdram1_act2_speaker277">Hugh.</speaker>
+
+            <p xml:id="emdram1_act2_p278"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act2_sp279">
+            <speaker xml:id="emdram1_act2_speaker280">Fitz.</speaker>
+
+            <p xml:id="emdram1_act2_p281"/>
+          </sp>
+
+
+          <sp who="#hughsavage" xml:id="emdram1_act2_sp282">
+            <speaker xml:id="emdram1_act2_speaker283">Hugh.</speaker>
+
+            <p xml:id="emdram1_act2_p284"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act2_sp285">
+            <speaker xml:id="emdram1_act2_speaker286">Fitz.</speaker>
+
+            <p xml:id="emdram1_act2_p287"/>
+          </sp>
+
+
+          <sp who="#hughsavage" xml:id="emdram1_act2_sp288">
+            <speaker xml:id="emdram1_act2_speaker289">Hugh.</speaker>
+
+            <p xml:id="emdram1_act2_p290"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act2_sp291">
+            <speaker xml:id="emdram1_act2_speaker292">Fitz.</speaker>
+
+            <p xml:id="emdram1_act2_p293"/>
+          </sp>
+
+
+          <sp who="#hughsavage" xml:id="emdram1_act2_sp294">
+            <speaker xml:id="emdram1_act2_speaker295">Hugh.</speaker>
+
+            <p xml:id="emdram1_act2_p296"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act2_sp297">
+            <speaker xml:id="emdram1_act2_speaker298">Fitz.</speaker>
+
+            <p xml:id="emdram1_act2_p299"/>
+          </sp>
+
+
+          <sp who="#mrclover" xml:id="emdram1_act2_sp300">
+            <speaker xml:id="emdram1_act2_speaker301">Clo.</speaker>
+
+            <p xml:id="emdram1_act2_p302"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act2_sp303">
+            <speaker xml:id="emdram1_act2_speaker304">Fitz.</speaker>
+
+            <p xml:id="emdram1_act2_p305"/>
+          </sp>
+
+
+          <sp who="#hughsavage" xml:id="emdram1_act2_sp306">
+            <speaker xml:id="emdram1_act2_speaker307">Hugh.</speaker>
+
+            <p xml:id="emdram1_act2_p308"/>
+          </sp>
+
+
+          <stage xml:id="emdram1_act2_stage309"/>
+
+          <sp who="#" xml:id="emdram1_act2_sp310">
+            <stage xml:id="emdram1_act2_stage311"/>
+            <p xml:id="emdram1_act2_p312"/>
+          </sp>
+
+
+          <sp who="#mrclover" xml:id="emdram1_act2_sp313">
+            <speaker xml:id="emdram1_act2_speaker314">Clo.</speaker>
+
+            <p xml:id="emdram1_act2_p315"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act2_sp316">
+            <speaker xml:id="emdram1_act2_speaker317">Fitz.</speaker>
+
+            <p xml:id="emdram1_act2_p318"/>
+          </sp>
+
+
+          <sp who="#mrclover" xml:id="emdram1_act2_sp319">
+            <speaker xml:id="emdram1_act2_speaker320">Clo.</speaker>
+
+            <p xml:id="emdram1_act2_p321"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act2_sp322">
+            <speaker xml:id="emdram1_act2_speaker323">Fitz.</speaker>
+
+            <p xml:id="emdram1_act2_p324"/>
+          </sp>
+
+
+          <sp who="#mrclover" xml:id="emdram1_act2_sp325">
+            <speaker xml:id="emdram1_act2_speaker326">Clo.</speaker>
+
+            <p xml:id="emdram1_act2_p327"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act2_sp328">
+            <speaker xml:id="emdram1_act2_speaker329">Fitz.</speaker>
+
+            <p xml:id="emdram1_act2_p330"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act2_sp331">
+            <stage xml:id="emdram1_act2_stage332"/>
+            <p xml:id="emdram1_act2_p333"/>
+          </sp>
+
+
+          <sp who="#mrclover" xml:id="emdram1_act2_sp334">
+            <speaker xml:id="emdram1_act2_speaker335">Clo.</speaker>
+
+            <p xml:id="emdram1_act2_p336"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act2_sp337">
+            <speaker xml:id="emdram1_act2_speaker338">Fitz.</speaker>
+
+            <p xml:id="emdram1_act2_p339"/>
+          </sp>
+
+
+          <sp who="#mrclover" xml:id="emdram1_act2_sp340">
+            <speaker xml:id="emdram1_act2_speaker341">Clo.</speaker>
+
+            <p xml:id="emdram1_act2_p342"/>
+          </sp>
+
+
+          <sp who="#charlesclover" xml:id="emdram1_act2_sp343">
+            <speaker xml:id="emdram1_act2_speaker344">Char.</speaker>
+
+            <p xml:id="emdram1_act2_p345"/>
+          </sp>
+
+
+          <sp who="#mrclover" xml:id="emdram1_act2_sp346">
+            <speaker xml:id="emdram1_act2_speaker347">Clo.</speaker>
+
+            <p xml:id="emdram1_act2_p348"/>
+          </sp>
+
+
+          <sp who="#agnesclover" xml:id="emdram1_act2_sp349">
+            <speaker xml:id="emdram1_act2_speaker350">Agnes.</speaker>
+
+            <p xml:id="emdram1_act2_p351"/>
+          </sp>
+
+
+          <sp who="#mrclover" xml:id="emdram1_act2_sp352">
+            <speaker xml:id="emdram1_act2_speaker353">Clo.</speaker>
+
+            <p xml:id="emdram1_act2_p354"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act2_sp355">
+            <stage xml:id="emdram1_act2_stage356"/>
+            <p xml:id="emdram1_act2_p357"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act2_sp358">
+            <stage xml:id="emdram1_act2_stage359"/>
+            <p xml:id="emdram1_act2_p360"/>
+          </sp>
+
+
+          <sp who="#lucyclover" xml:id="emdram1_act2_sp361">
+            <speaker xml:id="emdram1_act2_speaker362">Lucy.</speaker>
+
+            <p xml:id="emdram1_act2_p363"/>
+          </sp>
+
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act2_sp364">
+            <speaker xml:id="emdram1_act2_speaker365">Fitz.</speaker>
+
+            <p xml:id="emdram1_act2_p366"/>
+          </sp>
+
+
+          <sp who="#agnesclover" xml:id="emdram1_act2_sp367">
+            <speaker xml:id="emdram1_act2_speaker368">Agnes.</speaker>
+
+            <p xml:id="emdram1_act2_p369"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act2_sp370">
+            <stage xml:id="emdram1_act2_stage371"/>
+            <p xml:id="emdram1_act2_p372"/>
+          </sp>
+
+
+          <sp who="#agnesclover" xml:id="emdram1_act2_sp373">
+            <speaker xml:id="emdram1_act2_speaker374">Agnes.</speaker>
+
+            <p xml:id="emdram1_act2_p375"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act2_sp376">
+            <speaker xml:id="emdram1_act2_speaker377">Fitz.</speaker>
+
+            <p xml:id="emdram1_act2_p378"/>
+          </sp>
+
+
+          <sp who="#mrclover" xml:id="emdram1_act2_sp379">
+            <speaker xml:id="emdram1_act2_speaker380">Clo.</speaker>
+
+            <p xml:id="emdram1_act2_p381"/>
+          </sp>
+
+
+          <sp who="#geraldfitzmaurice" xml:id="emdram1_act2_sp382">
+            <speaker xml:id="emdram1_act2_speaker383">Fitz.</speaker>
+
+            <p xml:id="emdram1_act2_p384"/>
+          </sp>
+
+
+          <sp who="#mrclover" xml:id="emdram1_act2_sp385">
+            <speaker xml:id="emdram1_act2_speaker386">Clo.</speaker>
+
+            <p xml:id="emdram1_act2_p387"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act2_sp388">
+            <stage xml:id="emdram1_act2_stage389"/>
+            <p xml:id="emdram1_act2_p390"/>
+          </sp>
+
+
+          <sp who="#" xml:id="emdram1_act2_sp391">
+            <stage xml:id="emdram1_act2_stage392"/>
+            <p xml:id="emdram1_act2_p393"/>
+          </sp>
+
+
+          <sp who="#all" xml:id="emdram1_act2_sp394">
+            <speaker xml:id="emdram1_act2_speaker395">All.</speaker>
+
+            <p xml:id="emdram1_act2_p396"/>
+          </sp>
+
+          <stage xml:id="emdram1_act2_stage397"/>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
